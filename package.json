@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^23.5.2"
+  }
+}
