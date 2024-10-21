@@ -1,0 +1,634 @@
+[
+    {
+        "name": "Fontaneros de Córdoba",
+        "rating": "(29)",
+        "address": null,
+        "phone": "+34 957 06 02 93 ",
+        "website": "https://fontanerosdecordoba.es/",
+        "emails": null
+    },
+    {
+        "name": "URBICOR",
+        "rating": "(241)",
+        "address": "C. Gutiérrez de los Ríos, 18, Centro, 14002 Córdoba, Spain",
+        "phone": "+34 957 47 96 12 ",
+        "website": "http://www.urbicor.net/",
+        "emails": null
+    },
+    {
+        "name": "Fontanero Cordoba",
+        "rating": "(9)",
+        "address": "Av. del Aeropuerto, Poniente Sur, 14004 Córdoba, Spain",
+        "phone": "+34 630 58 28 39 ",
+        "website": "http://www.fontanerocordoba.es/",
+        "emails": null
+    },
+    {
+        "name": "Depuratec",
+        "rating": "(22)",
+        "address": null,
+        "phone": "+34 633 01 02 49 ",
+        "website": "https://sites.google.com/view/depuratec/inicio",
+        "emails": null
+    },
+    {
+        "name": "Marcos Gamero",
+        "rating": "(50)",
+        "address": "Pl. de Andalucía, 8, 8, Sur, 14013 Córdoba, Spain",
+        "phone": "+34 957 29 00 17 ",
+        "website": "http://www.marcosgamero.com/",
+        "emails": null
+    },
+    {
+        "name": "Fontanero Córdoba | Procoim",
+        "rating": "(6)",
+        "address": "C. Juan Bautista Escudero, 262, 14014 Córdoba, Spain",
+        "phone": "+34 607 78 58 80 ",
+        "website": "http://procoim.es/",
+        "emails": null
+    },
+    {
+        "name": "Moyano Instalaciones y Reparaciones",
+        "rating": "(28)",
+        "address": null,
+        "phone": "+34 680 36 07 71 ",
+        "website": "https://www.facebook.com/MoyanoInstalacionesYReparaciones",
+        "emails": null
+    },
+    {
+        "name": "Desatascos Integrales Al Andalus",
+        "rating": "(18)",
+        "address": "Calle Fernando Fernández Martínez, 0, 14007 Córdoba, Spain",
+        "phone": "+34 670 87 57 32 ",
+        "website": "https://www.desatascosalandalus.com/",
+        "emails": null
+    },
+    {
+        "name": "BESER ASISTENCIA S.L. - Multiservicios en Cordoba - Fontaneros en Cordoba - Reformas en Cordoba",
+        "rating": "(25)",
+        "address": "Pol. Ind. Tecnocórdoba, C. Estonia, 33, PARCELA ME 2, NAVE 33, 14014 Córdoba, Spain",
+        "phone": "+34 957 32 67 84 ",
+        "website": "http://www.beserasistencia.net/",
+        "emails": null
+    },
+    {
+        "name": "Manitas cordoba",
+        "rating": "(9)",
+        "address": "C. de Damasco, 1, Poniente Sur, 14005 Córdoba, Spain",
+        "phone": "+34 634 85 36 18 ",
+        "website": "https://manitascordoba.com/",
+        "emails": null
+    },
+    {
+        "name": "Fontaneria Manuel Cabello",
+        "rating": "(3)",
+        "address": "Pintor Torrado, 7, Nte. Sierra, 14006 Córdoba, Spain",
+        "phone": "+34 678 59 51 50 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería Diaz García SC",
+        "rating": "(7)",
+        "address": "C. Pintor Alvarez Ortega, 5, LOCAL, 14193 Córdoba, Spain",
+        "phone": "+34 693 32 82 72 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería Cabello Casado Viñuela",
+        "rating": null,
+        "address": "Calle Dr. Gómez Aguado, 4, Levante, 14014 Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Desatascos Córdoba | El Califa",
+        "rating": "(40)",
+        "address": "C/ de Evaristo Espino, 49, Sur, 14009 Córdoba, Spain",
+        "phone": "+34 606 53 56 68 ",
+        "website": "http://desatascosencordoba.net/",
+        "emails": null
+    },
+    {
+        "name": "Multiservicios Matías | Electricista, jardinero, fontanero y reparaciones a domicilio",
+        "rating": null,
+        "address": null,
+        "phone": "+34 677 69 68 66 ",
+        "website": "https://multiserviciosmatias.com/",
+        "emails": null
+    },
+    {
+        "name": "Fontanería Gonzalo Haro",
+        "rating": "(5)",
+        "address": "C. Cáñamo, 6, Sureste, 14010 Córdoba, Spain",
+        "phone": "+34 664 29 82 42 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Plomero/Gasista Matriculado en Córdoba",
+        "rating": "(357)",
+        "address": null,
+        "phone": "+54 351 246-5331 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Plomero en Córdoba",
+        "rating": "(150)",
+        "address": null,
+        "phone": "+54 351 761-0791 ",
+        "website": "https://sites.google.com/view/plomeroencordoba/inicio",
+        "emails": null
+    },
+    {
+        "name": "Upkap Multiservicios",
+        "rating": "(6)",
+        "address": "C. los Chopos, 15, Nte. Sierra, 14006 Córdoba, Spain",
+        "phone": "+34 647 15 91 96 ",
+        "website": "http://es-es.facebook.com/UpKap.Cordoba/",
+        "emails": null
+    },
+    {
+        "name": "Gonzalo Castaño Fernández",
+        "rating": null,
+        "address": "Calle Platero Lucas Valdés, 2, Levante, 14007 Córdoba, Spain",
+        "phone": "+34 957 07 11 32 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Saneamientos",
+        "rating": null,
+        "address": "Francisco de Toledo, 1, Noroeste, 14011 Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "F. GOMEZ SERVICIOS VERTICALES",
+        "rating": "(59)",
+        "address": "C. Sebastián de Benalcázar, 30, Noroeste, 14006 Córdoba, Spain",
+        "phone": "+34 628 29 63 02 ",
+        "website": "https://www.facebook.com/profile.php?id=61550870171009",
+        "emails": null
+    },
+    {
+        "name": "Mantenimientos y Reformas Jara",
+        "rating": "(20)",
+        "address": "Pol Ind las Quemadas, C. Imprenta de la Alborada, 247, 14014 Córdoba, Spain",
+        "phone": "+34 957 08 33 17 ",
+        "website": "https://www.mantenimientosjara.es/es/",
+        "emails": null
+    },
+    {
+        "name": "Desatascos y limpiezas en Córdoba Salimcor",
+        "rating": "(6)",
+        "address": "Poligono Industrial Quintos, Fase 2, Nave 8, 14005 La Golondrina, Córdoba, Spain",
+        "phone": "+34 689 71 50 14 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontamania",
+        "rating": "(13)",
+        "address": "C. Escultor Juan de Mesa, S/N, Centro, 14002 Córdoba, Spain",
+        "phone": "+34 644 98 08 90 ",
+        "website": "https://www.fontamania.com/",
+        "emails": null
+    },
+    {
+        "name": "Mingorance S L",
+        "rating": "(2)",
+        "address": "Calle Ing. Juan de la Cierva, 0, 14013 Córdoba, Spain",
+        "phone": "+34 957 42 11 89 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Gayro Redes S L",
+        "rating": null,
+        "address": "Poligono Industrial las Quemadas, 109, 14014 Córdoba, Spain",
+        "phone": "+34 957 32 22 93 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "DESATASCOS MS. NAVARRO",
+        "rating": "(21)",
+        "address": "C. Imprenta de la Alborada, Parc. 124, Mód. 4A, 14014, Córdoba, Spain",
+        "phone": "+34 671 08 48 02 ",
+        "website": "https://www.facebook.com/Desatascos-y-Limpiezas-MS-Navarro-1557685251196146/?__tn__=,d,P-R&eid=ARCbHXBfHytRT_V7YEFPIeyrpmoZDeoeRIz_5H13JrasE3vw7VKfvviY3zgW4ysTrXDHg9Eh-m-Hoi_e",
+        "emails": null
+    },
+    {
+        "name": "Multiservicios El Santo",
+        "rating": "(108)",
+        "address": "C.C. Miralbaida, Calle Ntra. Sra. de Begoña, S/N, 14005 Córdoba, Spain",
+        "phone": "+34 618 11 89 00 ",
+        "website": "https://www.multiservicioselsanto.com/",
+        "emails": null
+    },
+    {
+        "name": "Saneamientos y Fontanería Campaña Guijarro, S.L.",
+        "rating": "(10)",
+        "address": "Av. de España, 31, 14800 Priego de Córdoba, Córdoba, Spain",
+        "phone": "+34 957 54 13 52 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "José Rodríguez Jiménez",
+        "rating": "(3)",
+        "address": "C. Don Lope de los Ríos, 9, Nte. Sierra, 14006 Córdoba, Spain",
+        "phone": "+34 957 27 99 09 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería y Climatización Dalye S.L.",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 604 47 49 29 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "NANCOR CÓRDOBA SL",
+        "rating": "(17)",
+        "address": "C. Juan de Cervantes, 34, Levante, 14007 Córdoba, Spain",
+        "phone": "+34 687 56 03 16 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería La Viñuela",
+        "rating": "(44)",
+        "address": null,
+        "phone": "+34 658 07 94 65 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "SAG INSTALACIONES Y REPARACIONES S.L.U",
+        "rating": null,
+        "address": "C. Lorenzo Ferreira, 44, Nte. Sierra, 14006 Córdoba, Spain",
+        "phone": "+34 635 42 96 92 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Iscarfran",
+        "rating": null,
+        "address": "Poligono Industrial las Quemadas, S/N, 14014 Córdoba, Spain",
+        "phone": "+34 677 46 77 48 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "José Antonio Vidal Pozo",
+        "rating": null,
+        "address": "Avenida De la Intendencia, 13 (de la), 14100 Carlota (la), Córdoba, Spain",
+        "phone": "+34 957 30 12 67 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Defucor",
+        "rating": "(5)",
+        "address": "C. Imprenta de la Alborada, 247, 14014 Córdoba, Spain",
+        "phone": "+34 610 81 05 37 ",
+        "website": "http://www.defucor.com/",
+        "emails": null
+    },
+    {
+        "name": "Fontanero en la carlota",
+        "rating": null,
+        "address": null,
+        "phone": "+34 608 52 40 73 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "3i Multihogar Asistencia Rapida",
+        "rating": null,
+        "address": "C. Acera de Granada, 24, Sur, 14009 Córdoba, Spain",
+        "phone": "+34 902 29 11 19 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "INPRO - Fontanería y Calefacción",
+        "rating": "(7)",
+        "address": "C. Huelva, 1, 14400 Pozoblanco, Córdoba, Spain",
+        "phone": "+34 957 74 35 55 ",
+        "website": "http://www.inprolospedroches.com/",
+        "emails": null
+    },
+    {
+        "name": "MultiServicios José Redondo",
+        "rating": null,
+        "address": "Calle Padre Trinitario Manuel Fuentes, 4, Levante, 14010 Córdoba, Spain",
+        "phone": "+34 627 82 77 20 ",
+        "website": "https://multiserviciosjoseredondo.es/",
+        "emails": null
+    },
+    {
+        "name": "FONTANERIA DEL REY",
+        "rating": null,
+        "address": null,
+        "phone": "+34 658 07 94 65 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería Hinojosa Aguilera",
+        "rating": "(7)",
+        "address": "C. la Ribera, 14800 Priego de Córdoba, Córdoba, Spain",
+        "phone": "+34 957 54 10 84 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Reformas Azahara y Multiservicios",
+        "rating": "(6)",
+        "address": "Calle Ingeniero Juan de la Cierva, Pol. Ing. La Torrecilla, 36, Nave 19, 14013 Córdoba, Spain",
+        "phone": "+34 957 46 30 63 ",
+        "website": "http://multiserviciosyreformasazahara.es/",
+        "emails": null
+    },
+    {
+        "name": "Naso Instalaciones Sanitarias y Gas",
+        "rating": "(10)",
+        "address": "Bº Matienzo, Alexander Fleming 2569, X5011 BOM, Córdoba, Argentina",
+        "phone": "+54 9 351 398-3144 ",
+        "website": "https://www.facebook.com/nasoinstalaciones/",
+        "emails": null
+    },
+    {
+        "name": "Sanecar",
+        "rating": "(3)",
+        "address": "Calle Edison, 0 S N ( Pol Ind Llanos Del Jarata ), 14550 Jarata, Córdoba, Spain",
+        "phone": "+34 957 65 33 31 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "CONSTRUCCIONES LARA",
+        "rating": "(28)",
+        "address": "C. Venerable Juan de Santiago, 2, Sureste, 14010 Córdoba, Spain",
+        "phone": "+34 649 74 37 37 ",
+        "website": "http://www.construccioneslaracordoba.com/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Andrés Jimenéz",
+        "rating": null,
+        "address": "Urbanización Amigos, 39, 14610 Alcolea, Córdoba, Spain",
+        "phone": "+34 687 36 54 02 ",
+        "website": "http://www.instalacionesandresjimenez.com/",
+        "emails": null
+    },
+    {
+        "name": "FONTANERIA AQUADRA",
+        "rating": "(5)",
+        "address": "C. Cristóbal Colón, 28, 14500 Puente Genil, Córdoba, Spain",
+        "phone": "+34 673 36 24 88 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Desatascos en Córdoba | LIMCOR",
+        "rating": "(19)",
+        "address": "Parcela A, Calle los Metalúrgicos, 78, 14014 Córdoba, Spain",
+        "phone": "+34 957 78 15 57 ",
+        "website": "https://limcor-cordoba.es/",
+        "emails": null
+    },
+    {
+        "name": "Manuel Párraga Pérez",
+        "rating": "(5)",
+        "address": "C. Gral. Lozano, 18, 14900 Lucena, Córdoba, Spain",
+        "phone": "+34 957 50 11 66 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontaneria Guzman",
+        "rating": "(11)",
+        "address": "C. Vivero, 1, 14800 Priego de Córdoba, Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Solucionamos Reparaciones Inmediatas",
+        "rating": null,
+        "address": "Av de los Almogávares, 29, Centro, 14007 Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones De Fontanería",
+        "rating": null,
+        "address": "C. del Alcalde de la Cruz Ceballos, 9, Poniente Sur, 14004 Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Kinito Córdoba",
+        "rating": "(2)",
+        "address": "C. Letonia, 95, 14014 Córdoba, Spain",
+        "phone": "+34 957 96 74 87 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería Antonio Burgos",
+        "rating": "(29)",
+        "address": "C. Maestro Gordillo, 1, 14900 Lucena, Córdoba, Spain",
+        "phone": "+34 957 50 36 50 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Desatascos de Córdoba",
+        "rating": "(7)",
+        "address": "C. Gonzalo de Berceo, 3, Noroeste, 14011 Córdoba, Spain",
+        "phone": "+34 665 03 10 01 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "El Amigo plomero",
+        "rating": "(63)",
+        "address": "Av. Juan B Justo 3575, X5000 Córdoba, Argentina",
+        "phone": "+54 9 351 313-3877 ",
+        "website": "https://business.google.com/site/l/01631598484304199621?hl=es-419",
+        "emails": null
+    },
+    {
+        "name": "La Nueva Destranques",
+        "rating": "(47)",
+        "address": "Tristán Narvaja 1643, X5006 Córdoba, Argentina",
+        "phone": "+54 351 652-7188 ",
+        "website": "https://www.gurugo.com.ar/fichas/la-nueva-destranques_16932608",
+        "emails": null
+    },
+    {
+        "name": "Fontoapa",
+        "rating": null,
+        "address": "C. Infanta Doña María, 32, Poniente Sur, 14005 Córdoba, Spain",
+        "phone": "+34 957 45 34 80 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería Márquez Marqués",
+        "rating": null,
+        "address": "Av. Antonio y Miguel Navarro, 21, 14550 Montilla, Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Vicente Serrano Espejo",
+        "rating": "(4)",
+        "address": "C. San Isidro, 14, 14940 Cabra, Córdoba, Spain",
+        "phone": "+34 957 52 22 48 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Plomero/gasista",
+        "rating": "(21)",
+        "address": "Av. Vélez Sarsfield 361, X5017 Córdoba, Argentina",
+        "phone": "+54 9 351 749-1294 ",
+        "website": "https://www.instagram.com/plomerosenlinea?igsh=MXhzbHVmZDF0ZXM5bw==",
+        "emails": null
+    },
+    {
+        "name": "Fontanería González Eslava S L",
+        "rating": "(5)",
+        "address": "Calle Dr. Miguel Servet, 28, 14520 Fernán Núñez, Córdoba, Spain",
+        "phone": "+34 957 38 08 49 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Equipsol",
+        "rating": "(18)",
+        "address": "Av. Virgen de las Angustias, 47, Nte. Sierra, 14007 Córdoba, Spain",
+        "phone": "+34 604 12 32 63 ",
+        "website": "http://www.equipsolsl.com/",
+        "emails": null
+    },
+    {
+        "name": "Antonio Ramírez Amador",
+        "rating": "(7)",
+        "address": "C. San Cristóbal, 11, 14500 Puente Genil, Córdoba, Spain",
+        "phone": "+34 957 60 04 52 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontaneria REINA",
+        "rating": "(12)",
+        "address": "C. Blanca de los Ríos, 13, 14850 Baena, Córdoba, Spain",
+        "phone": "+34 957 84 69 38 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "morenito SANITEC, S.C.",
+        "rating": "(4)",
+        "address": "C. Jardines de Andalucía, 11, 14540 La Rambla, Córdoba, Spain",
+        "phone": "+34 957 68 44 57 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "PLOMERO SERV.KASSA",
+        "rating": "(34)",
+        "address": "Juan Baltazar Maciel 135, X5001 Córdoba, Argentina",
+        "phone": "+54 351 364-6985 ",
+        "website": "http://www.servkassa.com/",
+        "emails": null
+    },
+    {
+        "name": "Fontanería Eduardo Baños Bujalance",
+        "rating": "(5)",
+        "address": "C. Lucena, 6, 14550 Montilla, Córdoba, Spain",
+        "phone": "+34 649 28 49 85 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería Pérez Bermúdez",
+        "rating": "(33)",
+        "address": "C. Arquitecto Mateo Gaya, 44, 14850 Baena, Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "DISTRIBUCIONES DE FONTANERIA CARLOS",
+        "rating": null,
+        "address": "C. Alcalá Zamora, 14, Nte. Sierra, 14006 Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Rafael Morales Cañete",
+        "rating": "(4)",
+        "address": "C. la Vega, 12, 14548 Montalbán de Córdoba, Córdoba, Spain",
+        "phone": "+34 630 71 43 75 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones de Fontanería Serrano Arias S.L.",
+        "rating": null,
+        "address": "C. Rey Fernando, 6, 14850 Baena, Córdoba, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "ManteHogar",
+        "rating": "(3)",
+        "address": null,
+        "phone": "+54 351 505-4964 ",
+        "website": "https://mantehogar.negocio.site/?utm_source=gmb&utm_medium=referral",
+        "emails": null
+    },
+    {
+        "name": "Fuel Energi S L",
+        "rating": null,
+        "address": "Pl. de Munda, 5, 14550 Montilla, Córdoba, Spain",
+        "phone": "+34 957 65 66 59 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Plomero Cloacas",
+        "rating": "(2)",
+        "address": "De la Serna 2021, Villa Cabrera, X5008JZI Córdoba, Argentina",
+        "phone": "+54 351 290-1842 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Hijos de Rafael Belmonte SL",
+        "rating": "(9)",
+        "address": "Diego Galván, Parcela 280, NAVE 9, 14014, Córdoba, Spain",
+        "phone": "+34 957 08 29 02 ",
+        "website": null,
+        "emails": null
+    }
+]

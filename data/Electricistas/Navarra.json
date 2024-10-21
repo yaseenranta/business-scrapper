@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Electricidad SRD",
+        "rating": "(39)",
+        "address": null,
+        "phone": "+34 671 88 55 55 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Evans Pamplona 24H",
+        "rating": "(82)",
+        "address": "31001, 31191 Pamplona, Navarra, Spain",
+        "phone": "+34 690 30 03 65 ",
+        "website": "https://electricidadevans.es/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones eléctricas elko",
+        "rating": "(46)",
+        "address": "C. de Ermitagaña, 19, 31008 Pamplona, Navarra, Spain",
+        "phone": "+34 660 27 85 69 ",
+        "website": "https://elko-electricistas.com/",
+        "emails": null
+    },
+    {
+        "name": "Navargi Electricidad",
+        "rating": "(14)",
+        "address": null,
+        "phone": "+34 689 18 77 27 ",
+        "website": "http://www.navargi.com/",
+        "emails": null
+    },
+    {
+        "name": "ELECTRICIDAD Y TELECOMUNICACIONES RED LUZ",
+        "rating": "(17)",
+        "address": "C. del Monasterio de Fitero, 8, bajo, 31011 Pamplona, Navarra, Spain",
+        "phone": "+34 628 87 05 36 ",
+        "website": "http://www.electricidadredluz.com/",
+        "emails": null
+    },
+    {
+        "name": "MB Averías Domésticas",
+        "rating": "(66)",
+        "address": "Pl. de La Libertad, 13, bajo trasera, 31004 Pamplona, Navarra, Spain",
+        "phone": "+34 647 05 45 36 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Diego Duque Electricidad",
+        "rating": "(47)",
+        "address": null,
+        "phone": "+34 634 81 02 88 ",
+        "website": "https://www.facebook.com/electricosdfdsas",
+        "emails": null
+    },
+    {
+        "name": "Abasto Electricidad",
+        "rating": "(41)",
+        "address": "C. Etxaburua, 1, bajo trasera, 31013 Berriozar, Navarra, Spain",
+        "phone": "+34 617 21 83 03 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Eléctricas Elko",
+        "rating": "(6)",
+        "address": null,
+        "phone": "+34 660 27 85 69 ",
+        "website": "http://www.elko-electricistas.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Luis J Esparza S L",
+        "rating": null,
+        "address": "Carretera, NA-6240, Navarra, Spain",
+        "phone": "+34 948 69 03 46 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricista Pamplona | Nasertec",
+        "rating": "(10)",
+        "address": null,
+        "phone": "+34 948 98 74 79 ",
+        "website": "https://electricistapamplona.es/",
+        "emails": null
+    },
+    {
+        "name": "Martorell Electricidad Industrial S L L",
+        "rating": "(3)",
+        "address": "Polígono Industrial Ipertegui I, n.36, 31160, 31160, Navarra, Spain",
+        "phone": "+34 948 32 53 47 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Doelec S L",
+        "rating": "(11)",
+        "address": "C. Comunidad de Aragón, 6, 31010 Barañáin, Navarra, Spain",
+        "phone": "+34 649 88 42 08 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Navarrluz - montaje eléctrico",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 634 92 95 58 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Kaypa Instalaciones Eléctricas Sl",
+        "rating": "(13)",
+        "address": "31192, Navarre, Spain",
+        "phone": "+34 948 24 51 88 ",
+        "website": "http://kaypa.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Bat-Vol S.L.",
+        "rating": "(25)",
+        "address": "Polígono Iruregaña, Nave 25, 31195 Aizoáin, Navarra, Spain",
+        "phone": "+34 948 30 25 44 ",
+        "website": "http://www.batvol.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Echeverría S L",
+        "rating": "(11)",
+        "address": "C. Zubiarte, 29, 31620 Huarte, Navarra, Spain",
+        "phone": "+34 948 33 06 07 ",
+        "website": "http://electricidadecheverria.es/epages/con1868802.mobile/?ObjectPath=/Shops/con1868802",
+        "emails": null
+    },
+    {
+        "name": "David Martínez Electricidad dm",
+        "rating": "(10)",
+        "address": "C. Sor Jerónima de la Ascensión, 3, local 2-3, 31500 Tudela, Navarra, Spain",
+        "phone": "+34 629 38 17 12 ",
+        "website": "http://www.electricidaddm.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Beorlegui",
+        "rating": "(10)",
+        "address": "C. San Isidro, 33, 31300 Tafalla, Navarra, Spain",
+        "phone": "+34 948 70 08 89 ",
+        "website": "http://www.beorlegui.com/",
+        "emails": null
+    },
+    {
+        "name": "Navatronic Comunicaciones, S.L.",
+        "rating": "(10)",
+        "address": "C. Martínez de Espronceda, 5, 31300 Tafalla, Navarra, Spain",
+        "phone": "+34 607 58 68 39 ",
+        "website": "http://www.navatronic.com/",
+        "emails": null
+    },
+    {
+        "name": "Tu Electricista Pamplona",
+        "rating": null,
+        "address": "C. Vidángoz, 9, 31014 Pamplona, Navarra, Spain",
+        "phone": "+34 848 86 40 23 ",
+        "website": "https://tuelectricistapamplona.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Pipaón S L",
+        "rating": "(13)",
+        "address": "Tr.ª Mercatondoa, 7, 31200 Estella, Navarra, Spain",
+        "phone": "+34 948 55 64 64 ",
+        "website": "http://electricidadpipaon.es/",
+        "emails": null
+    },
+    {
+        "name": "IRAGO ELECTRICIDAD",
+        "rating": "(2)",
+        "address": "Polígono Iruregaña, nave 4, 31195 Aizoáin, Navarra, Spain",
+        "phone": "+34 948 12 38 76 ",
+        "website": "http://iragoelectricidad.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Leima",
+        "rating": null,
+        "address": "Av. de la Baja Navarra, 13, 31300 Tafalla, Navarra, Spain",
+        "phone": "+34 606 38 16 85 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Ormat",
+        "rating": "(2)",
+        "address": "Av. Esteribar, 105, 31699 Olloki, Navarra, Spain",
+        "phone": "+34 618 72 71 45 ",
+        "website": "http://www.electricidadormat.com/",
+        "emails": null
+    },
+    {
+        "name": "Intelec",
+        "rating": "(3)",
+        "address": "C. de Echarri Aranaz, 2, 31015 Pamplona, Navarra, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Reparaciones integrales luis Vázquez Lugo",
+        "rating": null,
+        "address": "C. Manuel de Falla, 12, 31005 Pamplona, Navarra, Spain",
+        "phone": "+34 659 30 58 43 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Montajes eléctricos NOI s.a.l.",
+        "rating": "(6)",
+        "address": "C. F, 38, 31192 Mutilva Baja, Navarra, Spain",
+        "phone": "+34 948 24 65 00 ",
+        "website": "http://www.noisal.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Sedyl S.L.",
+        "rating": "(7)",
+        "address": "Pol. Ind. Mendikur, nave 3, 31160 Orcoyen, Navarra, Spain",
+        "phone": "+34 616 90 81 09 ",
+        "website": "http://sedyl.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad y Mantenimiento Gascón",
+        "rating": null,
+        "address": "C. Val, 65, 31513 Arguedas, Navarra, Spain",
+        "phone": "+34 626 04 09 87 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "AZ Antenas Electricidad SL Pamplona Navarra",
+        "rating": "(17)",
+        "address": "C. de Uscarres, 2, 31014 Pamplona, Navarra, Spain",
+        "phone": "+34 619 46 89 61 ",
+        "website": "https://antenasaz.webnode.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Navascues",
+        "rating": null,
+        "address": "Elecnasa, 31500 Tudela, Navarra, Spain",
+        "phone": "+34 948 82 03 19 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fuerzas Electricas De Navarra",
+        "rating": null,
+        "address": "Av. Roncesvalles, 7, 31002 Pamplona, Navarra, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Ormat",
+        "rating": "(4)",
+        "address": "Polígono Iruregaña, Nave 13, 31195 Aizoáin, Navarra, Spain",
+        "phone": "+34 618 72 71 45 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Irigalba",
+        "rating": null,
+        "address": "C. San Isidro, 40, 31300 Tafalla, Navarra, Spain",
+        "phone": "+34 696 64 61 46 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanero Electricista Navarra Sarriguren",
+        "rating": null,
+        "address": "C. Badostáin, 14, 4b, 31621 Egüés, Navarra, Spain",
+        "phone": "+34 688 77 48 41 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Montajes Eléctricos Alba",
+        "rating": "(26)",
+        "address": "Pol. Ind, Polígono Comarca II-a, Nave 55, 31191 Esparza, Navarra, Spain",
+        "phone": "+34 948 27 89 61 ",
+        "website": "http://www.montajesalba.com/",
+        "emails": null
+    },
+    {
+        "name": "Cirima Electricidad",
+        "rating": "(19)",
+        "address": "C. Serafín Olave, 35, 31007 Pamplona, Navarra, Spain",
+        "phone": "+34 948 26 61 57 ",
+        "website": "http://www.cirima.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Cober, S.L.",
+        "rating": "(6)",
+        "address": "C/D Nº5, Pol Ind, 1, 31592 Cintruénigo, Navarra, Spain",
+        "phone": "+34 636 54 48 02 ",
+        "website": "https://electricidadcober.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Ramos",
+        "rating": "(117)",
+        "address": "Polígono Ondarria, s/n, 31800, Navarra, Spain",
+        "phone": "+34 948 56 48 25 ",
+        "website": "http://electricidadramos.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Fenix Navarra, S.L.",
+        "rating": "(3)",
+        "address": "C. de Irunlarrea, 33, 31008 Pamplona, Navarra, Spain",
+        "phone": "+34 626 12 48 03 ",
+        "website": "http://electricidadfenix.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Sergio",
+        "rating": null,
+        "address": "Av. Navarra, 50, 31540 Buñuel, Navarra, Spain",
+        "phone": "+34 617 04 76 42 ",
+        "website": null,
+        "emails": null
+    }
+]

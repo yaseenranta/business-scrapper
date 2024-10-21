@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Mantyref - Juan Miguel Fernández",
+        "rating": "(536)",
+        "address": null,
+        "phone": "+34 656 36 24 39 ",
+        "website": "https://www.electricistaurgentemalaga.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricista Malaga. VLR INSTALACIONES - Urgencias 24h",
+        "rating": "(302)",
+        "address": null,
+        "phone": "+34 656 53 14 13 ",
+        "website": "https://electricistaurgentemalaga.es/",
+        "emails": null
+    },
+    {
+        "name": "JAM Eléctrico",
+        "rating": "(18)",
+        "address": null,
+        "phone": "+34 662 16 92 78 ",
+        "website": "http://www.jamelectrico.es/",
+        "emails": null
+    },
+    {
+        "name": "Elecmalaga Electricista 24 H",
+        "rating": "(20)",
+        "address": "C. Simeón Giménez Reyna, 10, Cruz de Humilladero, 29007 Málaga, Spain",
+        "phone": "+34 647 99 79 30 ",
+        "website": "https://elecmalaga.com/",
+        "emails": null
+    },
+    {
+        "name": "SANE-LEC",
+        "rating": "(28)",
+        "address": "C. Casarabonela, Local Nº.24, Cruz de Humilladero, 29006 Málaga, Spain",
+        "phone": "+34 622 33 49 21 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Evelectric Servicios Electricistas",
+        "rating": "(77)",
+        "address": "C. Tizo, 4, Distrito Centro, 29013 Málaga, Spain",
+        "phone": "+34 606 52 75 50 ",
+        "website": "https://www.evelectric.es/",
+        "emails": null
+    },
+    {
+        "name": "Montajes Eléctricos Y Telecomunicaciones Almeida",
+        "rating": "(89)",
+        "address": "C. Lara Castañeda, 57, Puerto de la Torre, 29190 Málaga, Spain",
+        "phone": "+34 610 40 31 03 ",
+        "website": "http://www.electricidadalmeida.es/",
+        "emails": null
+    },
+    {
+        "name": "Luzfutur",
+        "rating": "(57)",
+        "address": "Cam. Agropecuario de Realenga, 1, B, Churriana, 29140 Málaga, Spain",
+        "phone": "+34 952 12 47 59 ",
+        "website": "http://www.luzfutur.es/",
+        "emails": null
+    },
+    {
+        "name": "CM Electricistas (URGENCIAS 24 H)",
+        "rating": "(115)",
+        "address": null,
+        "phone": "+34 646 93 52 49 ",
+        "website": "https://cmelectricistas.com/",
+        "emails": null
+    },
+    {
+        "name": "Omelec Instalaciones Electricas Sl",
+        "rating": "(10)",
+        "address": "C. Juan Ramón Jiménez, 8, Bailén-Miraflores, 29010 Málaga, Spain",
+        "phone": "+34 689 77 91 33 ",
+        "website": "https://omelec.net/",
+        "emails": null
+    },
+    {
+        "name": "Mileto Instalaciones eléctricas",
+        "rating": "(14)",
+        "address": "Pl. Río Trabanco, 4, LOC-018, Cruz de Humilladero, 29006 Málaga, Spain",
+        "phone": "+34 658 48 10 56 ",
+        "website": "https://miletoinstalaciones.com/",
+        "emails": null
+    },
+    {
+        "name": "sol y carga",
+        "rating": null,
+        "address": "C. Alejandro Dumas, 9b, Carretera de Cádiz, 29004 Málaga, Spain",
+        "phone": "+34 624 10 59 71 ",
+        "website": "https://www.solycarga.com/",
+        "emails": null
+    },
+    {
+        "name": "ELECTROSIMO ENERGÍA",
+        "rating": "(11)",
+        "address": "C. Caladero, 3, Cruz de Humilladero, 29006 Málaga, Spain",
+        "phone": "+34 639 20 04 99 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Melfosur Malaga",
+        "rating": "(43)",
+        "address": "C. Carlo Goldoni, 19, Churriana, 29004 Málaga, Spain",
+        "phone": "+34 952 23 69 97 ",
+        "website": "http://www.melfosur.es/",
+        "emails": null
+    },
+    {
+        "name": "Dayjo",
+        "rating": "(45)",
+        "address": "C. París, 46, Cruz de Humilladero, 29006 Málaga, Spain",
+        "phone": "+34 952 34 50 00 ",
+        "website": "https://www.dayjo.es/",
+        "emails": null
+    },
+    {
+        "name": "MEC instalaciones",
+        "rating": "(19)",
+        "address": "C. Lope de Rueda, 306, Puerto de la Torre, 29190 Málaga, Spain",
+        "phone": "+34 661 11 97 06 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones electricas Hogarled - Electricistas en Málaga",
+        "rating": "(10)",
+        "address": null,
+        "phone": null,
+        "website": "http://instalacioneselectricashogarled.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricistas Electroservice",
+        "rating": "(2)",
+        "address": "C. Pérez Zúñiga, 1, Málaga-Este, 29018 Málaga, Spain",
+        "phone": "+34 642 01 15 63 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "SEM Solución Eléctrica Malaga",
+        "rating": "(27)",
+        "address": "C. Flauta Mágica, 9A, Cruz de Humilladero, 29006 Málaga, Spain",
+        "phone": "+34 951 19 80 25 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Comabe",
+        "rating": "(17)",
+        "address": "C. Hermanas Bronte, 6, Churriana, 29004 Málaga, Spain",
+        "phone": "+34 952 10 54 10 ",
+        "website": "http://www.comabe.es/",
+        "emails": null
+    },
+    {
+        "name": "Elecfranluz SL",
+        "rating": "(12)",
+        "address": "C. Marea Baja, 41, Cruz de Humilladero, 29006 Málaga, Spain",
+        "phone": "+34 695 59 15 22 ",
+        "website": "http://www.elecfranluz.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricians Torremolinos LIT Electricians Covering the Costa Del Sol",
+        "rating": null,
+        "address": "Sardinero 1 A -01 EDF. La Talencia, 29620 Torremolinos, Málaga, Spain",
+        "phone": "+34 711 00 43 50 ",
+        "website": "http://www.litelectricians.com/",
+        "emails": null
+    },
+    {
+        "name": "COMERCIAL ELECTRO ORTEGA-ANOR ELECTROTELECO",
+        "rating": "(9)",
+        "address": "C. Huerto del Conde, 3, BAJO, Distrito Centro, 29012 Málaga, Spain",
+        "phone": "+34 952 25 39 40 ",
+        "website": "http://www.anorelectroteleco.es/contacto",
+        "emails": null
+    },
+    {
+        "name": "AV Consultores Eléctricos - Fenie Energía Málaga",
+        "rating": "(4)",
+        "address": "C. Pedro de Lobo, 4, Cdad. Jardín, 29014 Málaga, Spain",
+        "phone": "+34 952 25 27 41 ",
+        "website": "https://avconsultoreselectricos.com/",
+        "emails": null
+    },
+    {
+        "name": "Cielo Este S.L.",
+        "rating": null,
+        "address": "Calle Severo Ochoa, 59, 29590, Málaga, Spain",
+        "phone": "+34 952 02 01 33 ",
+        "website": "http://cieloeste.es/",
+        "emails": null
+    },
+    {
+        "name": "MIE Instalaciones Electricas",
+        "rating": "(4)",
+        "address": "C. el Morche, 13, Campanillas, 29591 Málaga, Spain",
+        "phone": "+34 695 96 59 28 ",
+        "website": "https://xn--cys-miemalaguea-crb.com//",
+        "emails": null
+    },
+    {
+        "name": "Mansel",
+        "rating": "(23)",
+        "address": "C. Actriz Amelia de la Torre, 21, Campanillas, 29196 Málaga, Spain",
+        "phone": "+34 952 35 77 19 ",
+        "website": "https://www.mansel.es/",
+        "emails": null
+    },
+    {
+        "name": "Voltiam, SL",
+        "rating": "(28)",
+        "address": "Calle Alcalde Garret y Souto, 86, Cruz de Humilladero, 29006 Málaga, Spain",
+        "phone": "+34 952 35 28 17 ",
+        "website": "https://www.voltiam.es/",
+        "emails": null
+    },
+    {
+        "name": "Monelec SL (Grupo ETRA)",
+        "rating": "(14)",
+        "address": "C. Ceramistas, 14, Carretera de Cádiz, 29006 Málaga, Spain",
+        "phone": "+34 952 31 40 48 ",
+        "website": "http://www.grupoetra.com/",
+        "emails": null
+    },
+    {
+        "name": "CM Multiservicios Hogar",
+        "rating": "(13)",
+        "address": "C. Extremadura, 27, Escalera Derecha 1ºB, Málaga-Este, 29018 Málaga, Spain",
+        "phone": "+34 635 67 64 31 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fymelec Instalaciones Eléctricas Sl",
+        "rating": "(4)",
+        "address": "C. Eslovenia, 12, Churriana, 29004 Málaga, Spain",
+        "phone": "+34 952 35 02 11 ",
+        "website": "http://www.fymelec.net/",
+        "emails": null
+    },
+    {
+        "name": "SER-IN-PE - Empresa de Mantenimientos Integrales a Comunidades en Málaga",
+        "rating": "(23)",
+        "address": "Polígono, C. Navia, 25, 29010 Málaga, Spain",
+        "phone": "+34 647 87 50 92 ",
+        "website": "http://www.ser-in-pe.es/",
+        "emails": null
+    },
+    {
+        "name": "CASA SMART",
+        "rating": "(38)",
+        "address": "C. Diderot, 24, Oficina 3ºD, Churriana, 29004 Málaga, Spain",
+        "phone": "+34 744 60 79 83 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "MULTISERVICIOS GUILLERMO (ELECTRICISTA, FONTANERO Y REPARACIONES)",
+        "rating": "(6)",
+        "address": null,
+        "phone": "+34 634 04 81 28 ",
+        "website": "https://sites.google.com/view/multiserviciosguillermo/inicio",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Torremiel",
+        "rating": "(10)",
+        "address": "Av. Salvador Vicente, 6, Bajo (Parquemiel, 29631 Arroyo de La Miel, Málaga, Spain",
+        "phone": "+34 615 56 40 14 ",
+        "website": "https://www.torremiel.com/",
+        "emails": null
+    },
+    {
+        "name": "Decolec instalaciones eléctricas s.l",
+        "rating": "(6)",
+        "address": "C/ Río Sil, 10, Campanillas, 29196 Málaga, Spain",
+        "phone": "+34 951 15 49 02 ",
+        "website": "http://www.decolec.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Fuentes Luna",
+        "rating": "(4)",
+        "address": "C/ Crianza, nave 14, Parque Empresarial Lauro Torre, 29130 Alhaurín de la Torre, Málaga, Spain",
+        "phone": "+34 952 17 55 95 ",
+        "website": "http://www.electricidadfuentesluna.com/",
+        "emails": null
+    },
+    {
+        "name": "I2 Instalaciones Industriales",
+        "rating": "(6)",
+        "address": "C. Río Guadalhorce, 2, 29200 Antequera, Málaga, Spain",
+        "phone": "+34 666 87 49 55 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Tecnitel Málaga",
+        "rating": null,
+        "address": "C. Fuente de la Reina, 1, Churriana, 29004 Málaga, Spain",
+        "phone": "+34 952 23 66 10 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Duolectric sl",
+        "rating": null,
+        "address": "C. Pinzón, 8, Distrito Centro, 29001 Málaga, Spain",
+        "phone": "+34 696 81 64 04 ",
+        "website": "https://duolectric.es/contacto.html",
+        "emails": null
+    },
+    {
+        "name": "Reima electricistas",
+        "rating": null,
+        "address": "C. Llobregat, 5, Cdad. Jardín, 29014 Málaga, Spain",
+        "phone": "+34 633 83 53 27 ",
+        "website": "https://www.reparacionesmalaga.es/",
+        "emails": null
+    },
+    {
+        "name": "Celec Instalaciones Eléctricas",
+        "rating": "(14)",
+        "address": "17, C. Flauta Mágica, 15, 29006 Málaga, Spain",
+        "phone": "+34 952 04 06 23 ",
+        "website": "http://celecsl.com/",
+        "emails": null
+    }
+]

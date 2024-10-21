@@ -1,0 +1,650 @@
+[
+    {
+        "name": "Món Verd Jardins",
+        "rating": "(34)",
+        "address": "Carrer d'Huguet, 61, 17220 Sant Feliu de Guíxols, Girona, Spain",
+        "phone": "+34 647 21 51 11 ",
+        "website": "https://monverdjardins.com/",
+        "emails": null
+    },
+    {
+        "name": "La Jardineria del Gironès",
+        "rating": null,
+        "address": "Carrer del Riu Fluvià, 15, 17003 Girona, Spain",
+        "phone": "+34 648 76 65 36 ",
+        "website": "https://www.lajardineriadelgirones.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Girona",
+        "rating": "(4)",
+        "address": "Carrer Pere Compte, 11, 17005 Girona, Spain",
+        "phone": "+34 972 23 27 23 ",
+        "website": "https://www.gironajardineria.com/",
+        "emails": null
+    },
+    {
+        "name": "ECOJARDINS | Jardinería Ecológica Girona | ecojardins.net",
+        "rating": "(9)",
+        "address": "WVC2+M58, Ctra Girona a Sant Feliu 5b, 17423, 17243 Llambilles, Girona, Spain",
+        "phone": "+34 615 54 01 64 ",
+        "website": "https://ecojardins.net/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria CT",
+        "rating": "(16)",
+        "address": "Carrer de les Guilleries, numero 15, 17190 Salt, Girona, Spain",
+        "phone": "+34 622 36 39 63 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardí i Entorn S.L:",
+        "rating": "(5)",
+        "address": "Carrer Bisbe Sivilla, 1, 17005 Girona, Spain",
+        "phone": "+34 617 37 53 62 ",
+        "website": "https://jardi-entorn.com/",
+        "emails": null
+    },
+    {
+        "name": "Centre Verd Girona",
+        "rating": "(1,420)",
+        "address": "El Sitjar, 1A, 17190 Salt, Girona, Spain",
+        "phone": "+34 972 22 22 41 ",
+        "website": "http://www.centreverd.cat/",
+        "emails": null
+    },
+    {
+        "name": "El Sitjar (centre de jardineria)",
+        "rating": "(710)",
+        "address": "Camí del Sitjar s/n, 17190 Salt, Girona, Spain",
+        "phone": "+34 972 24 41 45 ",
+        "website": "http://www.elsitjar.com/",
+        "emails": null
+    },
+    {
+        "name": "RIGAU Jardiners",
+        "rating": "(12)",
+        "address": "Ctra. de Banyoles, 28, 17481 Sant Julià de Ramis, Girona, Spain",
+        "phone": "+34 972 17 32 17 ",
+        "website": "http://rigaujardiners.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Calonge-Sant Antoni",
+        "rating": "(21)",
+        "address": "17251, CR GE-667, P.K. 1.02 D, 17251 Calonge, Girona, Spain",
+        "phone": "+34 722 22 11 02 ",
+        "website": "https://jardineriacalonge.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardins Angel",
+        "rating": "(38)",
+        "address": "Mas Flassià, 17411 Vidreres, Girona, Spain",
+        "phone": "+34 660 82 78 32 ",
+        "website": "http://www.jardinsangel.com/",
+        "emails": null
+    },
+    {
+        "name": "Central Garden",
+        "rating": "(24)",
+        "address": "Cami Vell de Santa Cristina, 69, 17249 Castell-Platja d'Aro, Girona, Spain",
+        "phone": "+34 972 82 51 46 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardineria Alt Empordà",
+        "rating": "(2)",
+        "address": "Carrer Sant Miquel, 18, 17474 Vilamacolum, Girona, Spain",
+        "phone": "+34 610 02 99 08 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Césped Artificial Girona Verdalia",
+        "rating": "(5)",
+        "address": "arlos de, Carrer de Carles Bolòs, núm 2, 17003 Girona, Spain",
+        "phone": "+34 638 92 14 35 ",
+        "website": "http://www.verdalia.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Barnils",
+        "rating": "(11)",
+        "address": "Carretera de Cassà de la Selva a la Bisbal d'Empordà, km. 21, 17116 Cruïlles, Girona, Spain",
+        "phone": "+34 676 01 66 77 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardinero Costa Brava - Poda y tala de arboles en altura - Mantenimiento Jardin - KÊPOS",
+        "rating": "(19)",
+        "address": "Carrer Major, 8, 17220 Sant Feliu de Guíxols, Girona, Spain",
+        "phone": "+34 683 42 52 22 ",
+        "website": "http://kepos.es/",
+        "emails": null
+    },
+    {
+        "name": "MJ Jardiners",
+        "rating": "(24)",
+        "address": null,
+        "phone": "+34 635 18 75 20 ",
+        "website": "https://www.mjjardiners.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria i Serveis Forestals (Grup Fundació Ramon Noguera)",
+        "rating": "(2)",
+        "address": "Carrer de la Indústria, 18, 17005 Girona, Spain",
+        "phone": "+34 972 23 76 11 ",
+        "website": "http://grupfrn.cat/jardineria-i-serveis-forestals-a-girona",
+        "emails": null
+    },
+    {
+        "name": "Jardineria heliconias lloret de mar",
+        "rating": "(8)",
+        "address": "Carrer de Sant Carles, 33, 17310 Lloret de Mar, Girona, Spain",
+        "phone": "+34 632 77 95 94 ",
+        "website": "http://jardineriaheliconiaslloretdemar.com/",
+        "emails": null
+    },
+    {
+        "name": "Les Plantes Jardineria",
+        "rating": null,
+        "address": "Carrer de Pau Casals, 39, 17190 Salt, Girona, Spain",
+        "phone": "+34 607 56 18 81 ",
+        "website": "http://lesplantes.net/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Sils",
+        "rating": "(106)",
+        "address": "C-63 km 14, Cruce Crta A2 con crta Vidreres , s/n, 17410, 17410, Girona, Spain",
+        "phone": "+34 972 87 52 52 ",
+        "website": "http://www.jardineriasils.com/",
+        "emails": null
+    },
+    {
+        "name": "JARDINS EGEA",
+        "rating": "(6)",
+        "address": "Carrer del Canigó, 17469 Fortià, Girona, Spain",
+        "phone": "+34 674 59 72 68 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Rebrot Jardineria Olot",
+        "rating": "(21)",
+        "address": "Carrer Freixe, 78, 17800 Olot, Girona, Spain",
+        "phone": "+34 686 88 72 21 ",
+        "website": "http://www.rebrotjardineria.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Jaume",
+        "rating": "(173)",
+        "address": "N-260z, 17857, Girona, Spain",
+        "phone": "+34 972 29 13 97 ",
+        "website": "http://www.jardineriajaume.net/",
+        "emails": null
+    },
+    {
+        "name": "Artiflora home & garden",
+        "rating": "(1,956)",
+        "address": "Av. de Castell d'Aro, Km 4, 5, 17250 Platja d'Aro, Girona, Spain",
+        "phone": "+34 972 82 63 87 ",
+        "website": "http://www.artiflora.net/",
+        "emails": null
+    },
+    {
+        "name": "Centre de Jardineria Palafrugell S L",
+        "rating": "(40)",
+        "address": "Carrer de Goya, 14, 2º, 17200 Palafrugell, Girona, Spain",
+        "phone": "+34 627 43 11 18 ",
+        "website": "https://www.facebook.com/JardineriaPalafrugell",
+        "emails": null
+    },
+    {
+        "name": "Empordà jardí",
+        "rating": "(2)",
+        "address": "Passatge Camí Ample-39, n°5, 17130 L'Escala, Girona, Spain",
+        "phone": "+34 678 07 26 99 ",
+        "website": "http://empordajardi.com/",
+        "emails": null
+    },
+    {
+        "name": "Mediterránea Verde 2005 S.L.U.",
+        "rating": "(33)",
+        "address": "Carrer dels Ceps, 11, 17251 Calonge, Girona, Spain",
+        "phone": "+34 659 92 71 32 ",
+        "website": "https://mediterraneaverde.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Coll",
+        "rating": "(8)",
+        "address": "Rambla de Joaquim Ruyra, 109, 17300 Blanes, Girona, Spain",
+        "phone": "+34 620 48 80 91 ",
+        "website": "https://jardineriacoll.cat/",
+        "emails": null
+    },
+    {
+        "name": "JARDINERIA HEURA - BOSC DE TOSCA",
+        "rating": "(40)",
+        "address": "Carretera d'Olot, 10, 17178 Les Preses, Girona, Spain",
+        "phone": "+34 972 69 35 08 ",
+        "website": "http://www.jardineriaheura.com/",
+        "emails": null
+    },
+    {
+        "name": "Ariban Garden Services",
+        "rating": "(7)",
+        "address": "Carrer de Pi i Margall, 17200 Palafrugell, Girona, Spain",
+        "phone": "+34 623 25 45 92 ",
+        "website": "http://www.aribandesigns.com/",
+        "emails": null
+    },
+    {
+        "name": "Manteniment I Serveis La Molina S C",
+        "rating": null,
+        "address": "Avinguda Supermolina, 62, 17537 La Molina, Girona, Spain",
+        "phone": "+34 972 89 21 73 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Entorn Mediterrani",
+        "rating": "(4)",
+        "address": "Passatge Progrés, 5, 17005 Girona, Spain",
+        "phone": "+34 629 88 47 16 ",
+        "website": "http://www.entornmediterrani.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Pincod S.L.",
+        "rating": "(43)",
+        "address": "Carrer Camprodon, 33, 17240 Llagostera, Girona, Spain",
+        "phone": "+34 630 42 42 40 ",
+        "website": "https://jardineriapincod.com/",
+        "emails": null
+    },
+    {
+        "name": "Palafrugell Garden Center",
+        "rating": "(489)",
+        "address": "C-66, KM 0, 17124 Llofriu, Girona, Spain",
+        "phone": "+34 972 61 13 77 ",
+        "website": "http://www.palafrugellgardencenter.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardines Menamar",
+        "rating": "(7)",
+        "address": "Carrer Pallars Sobirà, 58, 17480 El Mas Boscà, Girona, Spain",
+        "phone": "+34 685 16 19 72 ",
+        "website": "http://www.jardinesmenamar.es/",
+        "emails": null
+    },
+    {
+        "name": "+K Jardineria",
+        "rating": null,
+        "address": null,
+        "phone": "+34 656 99 46 40 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "L'Eixida Jardineria Integral",
+        "rating": "(8)",
+        "address": "C/Rajaret nº10, 17141 Bellcaire d'Empordà, Girona, Spain",
+        "phone": "+34 670 29 41 57 ",
+        "website": "https://www.leixidajardineria.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardinería Rosés Roca",
+        "rating": "(11)",
+        "address": "casa, Carrer del Piverd, 33, 17200 Palafrugell, Girona, Spain",
+        "phone": "+34 686 94 99 76 ",
+        "website": "http://www.rosesroca.es/",
+        "emails": null
+    },
+    {
+        "name": "Poda y trabajos verticales AB tecnogarden - poda árboles en trepa, mantenimiento jardin y trabajo forestales",
+        "rating": "(5)",
+        "address": "Vëinat, Carr. Gaserans, 94, 17451 Sant Feliu de Buixalleu, Girona, Spain",
+        "phone": "+34 662 39 47 16 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jarditec. Jardineria i piscines",
+        "rating": "(9)",
+        "address": "Carrer del Palau, 132, 17130 L'Escala, Girona, Spain",
+        "phone": "+34 621 20 68 70 ",
+        "website": "https://www.jarditec.girona.cat/",
+        "emails": null
+    },
+    {
+        "name": "Botanical Jardineria",
+        "rating": "(2)",
+        "address": "Carrer d'Antoni Ferrer, 51, 17220 Sant Feliu de Guíxols, Girona, Spain",
+        "phone": "+34 619 44 95 93 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Magnatura, centre de jardineria.",
+        "rating": "(145)",
+        "address": "Carrer del Sud, s/n, 17244 Cassà de la Selva, Girona, Spain",
+        "phone": "+34 972 46 31 73 ",
+        "website": "http://www.magnatura.cat/",
+        "emails": null
+    },
+    {
+        "name": "Natura i disseny, Paisatgisme Girona",
+        "rating": "(4)",
+        "address": "Avinguda de Narcís Arnau, 71, 17172 Les Planes d'Hostoles, Girona, Spain",
+        "phone": "+34 628 78 60 81 ",
+        "website": "https://www.naturaidisseny.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Espiga Verda",
+        "rating": "(50)",
+        "address": "Recinte Can Casals, C-151-A, s/n, nau 5, 17500 Ripoll, Girona, Spain",
+        "phone": "+34 972 70 15 04 ",
+        "website": "http://www.espigaverda.com/",
+        "emails": null
+    },
+    {
+        "name": "JARDINERIA LLORET DE MAR- JARDIBO",
+        "rating": "(8)",
+        "address": "Passeig Torre Campdarà, 1, 2ª, 17310 Lloret de Mar, Girona, Spain",
+        "phone": "+34 630 44 43 92 ",
+        "website": "http://www.jardibo.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria En General Pons",
+        "rating": null,
+        "address": "Can Pelegrí, Av. de Vidreres, 180, nave 23, 17310 Lloret de Mar, Girona, Spain",
+        "phone": "+34 972 36 76 86 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardines & Gardens",
+        "rating": "(2)",
+        "address": "Carrer Requesens, 41, 17487 Empuriabrava, Girona, Spain",
+        "phone": "+34 621 27 92 43 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardineria Oria",
+        "rating": "(16)",
+        "address": null,
+        "phone": "+34 610 95 86 73 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardineria Palou",
+        "rating": "(2)",
+        "address": "Carrer Ter, 6, 17600 Figueres, Girona, Spain",
+        "phone": "+34 610 00 40 59 ",
+        "website": "https://sites.google.com/view/jardinerspalousabate",
+        "emails": null
+    },
+    {
+        "name": "Marius Jardineria",
+        "rating": null,
+        "address": null,
+        "phone": "+34 680 25 49 62 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Girojardi",
+        "rating": null,
+        "address": null,
+        "phone": "+34 651 81 82 32 ",
+        "website": "http://www.girojardi.cat/",
+        "emails": null
+    },
+    {
+        "name": "CORVIGRASS",
+        "rating": "(53)",
+        "address": "Carrer de la Via, 23, 17244 Cassà de la Selva, Girona, Spain",
+        "phone": "+34 667 59 34 40 ",
+        "website": "http://corvigrass.es/",
+        "emails": null
+    },
+    {
+        "name": "Manel García Manteniment i construcció de jardins",
+        "rating": "(4)",
+        "address": "17486 Castelló d'Empúries, Girona, Spain",
+        "phone": "+34 661 37 64 49 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardineria Pol",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 605 89 35 75 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Serveis de jardineria Paco González",
+        "rating": null,
+        "address": "Carrer de Pi i Margall, 119, 17200 Palafrugell, Girona, Spain",
+        "phone": "+34 605 02 69 62 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "EUROCESPED",
+        "rating": "(9)",
+        "address": "C/ Vall-llobrega, 30, C-31, 330, 17253, Girona, Spain",
+        "phone": "+34 872 02 80 87 ",
+        "website": "http://www.eurocesped.com/cesped-artificial-girona",
+        "emails": null
+    },
+    {
+        "name": "Gardin Costa Brava",
+        "rating": "(2)",
+        "address": "Carrer del Fonoll, 40, 17220 Sant Amanç, Girona, Spain",
+        "phone": "+34 656 37 20 05 ",
+        "website": "http://www.gardincostabrava.com/",
+        "emails": null
+    },
+    {
+        "name": "Garden Center SanllehÍ",
+        "rating": "(86)",
+        "address": "Avinguda de Roses, s/n, 17487 Castelló d'Empúries, Girona, Spain",
+        "phone": "+34 972 45 05 57 ",
+        "website": "http://www.gardencentersanllehi.com/",
+        "emails": null
+    },
+    {
+        "name": "Servei jardi Benito Sjv",
+        "rating": "(3)",
+        "address": "Av. Vila de Tossa, 17310 Lloret de Mar, Girona, Spain",
+        "phone": "+34 663 60 19 25 ",
+        "website": "https://serveisjb.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardiner David Goiba",
+        "rating": "(2)",
+        "address": "Carrer de les Roques Martines, 12, 17250 Platja d'Aro, Girona, Spain",
+        "phone": "+34 647 26 33 76 ",
+        "website": "http://davidgoibajardiner.com/",
+        "emails": null
+    },
+    {
+        "name": "Flax Garden",
+        "rating": "(2)",
+        "address": "Carrer de l'Himalaia, 21, 17007 Girona, Spain",
+        "phone": "+34 972 22 84 54 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardineria Cristian",
+        "rating": null,
+        "address": "Plaça de l'Orri, 11, 17869 Vilallonga de Ter, Girona, Spain",
+        "phone": "+34 642 60 20 34 ",
+        "website": "https://www.jardineriacristian.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardins Arnau, S.L.",
+        "rating": "(29)",
+        "address": "C-31, km 338, 17214 Begur, Girona, Spain",
+        "phone": "+34 972 62 30 38 ",
+        "website": "http://www.jardinsarnau.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Camps",
+        "rating": "(8)",
+        "address": null,
+        "phone": "+34 679 38 30 79 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Arbore",
+        "rating": null,
+        "address": "Carrer Migdia, 4, 17002 Girona, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardinería Solivera",
+        "rating": "(4)",
+        "address": "s/n - Vinya d'en Carles, Mas Teixidor, Cami, 17110 La Bisbal d'empordà, Girona, Spain",
+        "phone": "+34 972 64 69 10 ",
+        "website": "http://jardineriasolivera.cat/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria carlos pajares",
+        "rating": null,
+        "address": "Carrer Francesca Janoher, 10, 17230 Palamós, Girona, Spain",
+        "phone": "+34 690 38 40 53 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "PRO PODA JARDINERS / SERVEI DE JARDINERIA I PODA / GIRONA",
+        "rating": null,
+        "address": null,
+        "phone": "+34 644 70 44 39 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Punt Verd Girona",
+        "rating": null,
+        "address": "Carrer Llevant, 26, 17180 Vilablareix, Girona, Spain",
+        "phone": "+34 972 40 55 38 ",
+        "website": "http://www.puntverd.com/",
+        "emails": null
+    },
+    {
+        "name": "Césped Artificial Alt Empordà Verdalia",
+        "rating": null,
+        "address": "Ctr.Figueres a, C-260, Carrer Roses, km.34, 700, 17486, Girona, Spain",
+        "phone": "+34 972 15 60 03 ",
+        "website": "https://cespedartificialverdalia.com/",
+        "emails": null
+    },
+    {
+        "name": "JARDINERIA LAS MIMOSAS",
+        "rating": null,
+        "address": "Carrer Ridaura, 2, 17246 Santa Cristina d'Aro, Girona, Spain",
+        "phone": "+34 650 85 93 92 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "GIROJARDIN",
+        "rating": null,
+        "address": "17220 Sant Feliu de Guíxols, Girona, Spain",
+        "phone": "+34 629 00 54 76 ",
+        "website": "http://www.girojardin.com/",
+        "emails": null
+    },
+    {
+        "name": "Verdak serveis",
+        "rating": "(2)",
+        "address": "Carrer de Torras i Bages, 12. 4, 2, 17190 Salt, Girona, Spain",
+        "phone": "+34 677 69 37 99 ",
+        "website": "http://www.verdak-serveis.com/",
+        "emails": null
+    },
+    {
+        "name": "Aspecte Paisatge",
+        "rating": "(6)",
+        "address": "Carrer de La Llibertat, 159 2n E, 17820 Banyoles, Girona, Spain",
+        "phone": "+34 972 58 19 17 ",
+        "website": "http://www.aspecte.net/",
+        "emails": null
+    },
+    {
+        "name": "La Moixera Forestal (Venda de Llenya, Treballs Forestals i Jardineria)",
+        "rating": "(6)",
+        "address": "17536 Toses, Girona, Spain",
+        "phone": "+34 689 72 41 03 ",
+        "website": "https://lamoixeraforestal.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria bert",
+        "rating": null,
+        "address": null,
+        "phone": "+34 643 33 63 60 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Mullor Girona",
+        "rating": "(7)",
+        "address": "Carrer de Pep Ventura, 57, 17190 Salt, Girona, Spain",
+        "phone": "+34 902 50 44 05 ",
+        "website": "https://www.mullor.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Isabel, Cerdanya",
+        "rating": null,
+        "address": "Avinguda d' Alp, 8, 17537 La Molina, Girona, Spain",
+        "phone": "+34 638 62 57 21 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Estudi de Jardinería",
+        "rating": "(5)",
+        "address": "Carrer Antoni Gaudí, 6, 17430 Santa Coloma de Farners, Girona, Spain",
+        "phone": "+34 629 77 96 66 ",
+        "website": "https://www.estudidejardineria.com/",
+        "emails": null
+    },    
+    {
+        "name": "Pedro Martín Llamas",
+        "rating": "(3)",
+        "address": "Carrer d'Emili Silvestre, 5, 17255 Begur, Girona, Spain",
+        "phone": "+34 647 03 08 07 ",
+        "website": null,
+        "emails": null
+    }
+]

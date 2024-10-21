@@ -1,0 +1,702 @@
+ [
+    {
+      "name": "SAT Palma",
+      "rating": "(159)",
+      "address": "C/ Reis Catòlics, 81, Llevant, 07007 Palma, Illes Balears, Spain",
+      "phone": "+34 871 71 53 92 ",
+      "website": "https://www.satpalma.com/"
+    },
+    {
+      "name": "Fontanería Alonso",
+      "rating": "(70)",
+      "address": "Carrer de Ramon Muntaner, 49B, Nord, 07010 Palma, Illes Balears, Spain",
+      "phone": "+34 630 64 36 50 ",
+      "website": "http://www.fontanerialonso.com/"
+    },
+    {
+      "name": "Fontanería Martin",
+      "rating": "(20)",
+      "address": "Carrer d'Eusebi Estada, 113, Nord, 07004 Palma, Illes Balears, Spain",
+      "phone": "+34 625 41 46 25 ",
+      "website": null
+    },
+    {
+      "name": "CM INSTALACIONES FONTANERÍA",
+      "rating": "(29)",
+      "address": "Carrer d'Adrià Ferran, 44, Llevant, 07007 Palma, Illes Balears, Spain",
+      "phone": "+34 617 01 30 08 ",
+      "website": null
+    },
+    {
+      "name": "Fontanería Bilfont - Fontaneros en Palma de Mallorca",
+      "rating": "(14)",
+      "address": "Carrer d'Hiroshima, 27, BAJO, Nord, 07004 Palma, Illes Balears, Spain",
+      "phone": "+34 628 79 21 23 ",
+      "website": "http://www.fontaneriabilfont.com/"
+    },
+    {
+      "name": "Desatascos Miguel",
+      "rating": "(121)",
+      "address": "Carrer de Julià Alvarez, 11, Nord, 07004 Palma, Illes Balears, Spain",
+      "phone": "+34 695 56 65 80 ",
+      "website": null
+    },
+    {
+      "name": "La Fontanera de Palma. Fontaneros. Desatascos.",
+      "rating": "(11)",
+      "address": "C. del Camp Redó, 16, Nord, 07010 Palma, Illes Balears, Spain",
+      "phone": "+34 657 56 05 60 ",
+      "website": "https://lafontaneradepalma.com/"
+    },
+    {
+      "name": "Fontanería Servicios Martín42 (Daniel Martín)",
+      "rating": "(14)",
+      "address": null,
+      "phone": "+34 607 18 74 37 ",
+      "website": "https://www.instagram.com/serviciosmartin42/"
+    },
+    {
+      "name": "Desatascos RMEA Mallorca",
+      "rating": "(30)",
+      "address": "Carrer d'en Jordi, 1, 2b, Levante, 07008 Palma, Balearic Islands, Spain",
+      "phone": "+34 643 65 44 92 ",
+      "website": null
+    },
+    {
+      "name": "Fontanería Saddi e Hijos",
+      "rating": "(36)",
+      "address": "Carrer de Cepeda, 3A, Ponent, 07014 Palma, Illes Balears, Spain",
+      "phone": "+34 676 49 41 67 ",
+      "website": null
+    },
+    {
+      "name": "Fontanero lampista gasista averías.",
+      "rating": "(8)",
+      "address": "Carrer del Cardenal Pou, Centre, 07003 Palma, Illes Balears, Spain",
+      "phone": "+34 697 24 30 40 ",
+      "website": null
+    },
+    {
+      "name": "Fontaneria Jose Espinola. Fontaneros en palma",
+      "rating": null,
+      "address": "Carrer de Josep Estela, 21, Ponent, 07011 Palma, Illes Balears, Spain",
+      "phone": "+34 695 34 30 84 ",
+      "website": null
+    },
+    {
+      "name": "Instalaciones Mendieta",
+      "rating": "(30)",
+      "address": null,
+      "phone": "+34 610 95 90 18 ",
+      "website": "https://instalacionesmendieta.com/"
+    },
+    {
+      "name": "Repara Balear",
+      "rating": "(105)",
+      "address": "Carrer del Cardenal Rossell, 67, Platja de Palma, 07007 Palma, Illes Balears, Spain",
+      "phone": "+34 678 75 72 62 ",
+      "website": "http://www.reparabalear.com/"
+    },
+    {
+      "name": "Fontanería Torres",
+      "rating": null,
+      "address": "Carrer de Jaume Ferran, 74, Nord, 07004 Palma, Illes Balears, Spain",
+      "phone": "+34 971 20 86 62 ",
+      "website": null
+    },
+    {
+      "name": "FONTANERIA JAUME",
+      "rating": "(4)",
+      "address": null,
+      "phone": "+34 971 10 04 72 ",
+      "website": null
+    },
+    {
+      "name": "TITAN SERVICIOS Y CONTRATAS S.L. Fontanería, climatización y calefacción",
+      "rating": "(14)",
+      "address": "Carrer Benet Pons i Fàbregues, 28, Llevant, 07007 Palma, Illes Balears, Spain",
+      "phone": "+34 679 65 81 34 ",
+      "website": null
+    },
+    {
+      "name": "Marlom fontaneros mallorca",
+      "rating": "(18)",
+      "address": null,
+      "phone": "+34 643 84 15 05 ",
+      "website": "http://www.fontaneriamarlom-webnode.es/"
+    },
+    {
+      "name": "Mauricio Degue - Fontanero",
+      "rating": "(6)",
+      "address": null,
+      "phone": "+34 621 09 14 01 ",
+      "website": null
+    },
+    {
+      "name": "Llanterneria A. García",
+      "rating": "(15)",
+      "address": "Carrer Mare de Déu de Montserrat, 48, Llevant, 07008 Palma, Illes Balears, Spain",
+      "phone": "+34 971 47 24 71 ",
+      "website": "https://www.llanterneriagarcias.com/"
+    },
+    {
+      "name": "GRUPO.RZAK Instalaciones & mantenimientos",
+      "rating": "(3)",
+      "address": "Carrer Sant Isidor, Llevant, 07007 Palma, Illes Balears, Spain",
+      "phone": "+34 689 48 06 83 ",
+      "website": null
+    },
+    {
+      "name": "GRUPO.RZAK instalaciones",
+      "rating": "(7)",
+      "address": "Pl. d'Espanya, Llevant, 07005 Palma, Illes Balears, Spain",
+      "phone": "+34 689 48 06 83 ",
+      "website": "https://www.facebook.com/profile.php?id=100093789724985"
+    },
+    {
+      "name": "Fran Pedro Saneamiento y Calefacción S.L.",
+      "rating": null,
+      "address": "C. del Regal, 113, Llevant, 07008 Palma, Illes Balears, Spain",
+      "phone": "+34 971 24 18 94 ",
+      "website": null
+    },
+    {
+      "name": "Fontaneria de Hierros y Aceros de Mallorca, S.A",
+      "rating": "(30)",
+      "address": "Carrer Gremi de Boneters, 32, Nord, 07009 Palma, Illes Balears, Spain",
+      "phone": "+34 971 43 11 08 ",
+      "website": "https://hierrosmallorca.es/"
+    },
+    {
+      "name": "Instaladores Bevimi",
+      "rating": null,
+      "address": "Carrer de Josep Garcias, 3, Llevant, 07008 Palma, Illes Balears, Spain",
+      "phone": "+34 971 27 32 15 ",
+      "website": null
+    },
+    {
+      "name": "JJ. ORTIZ Reformas y Jardineria",
+      "rating": "(75)",
+      "address": "Carrer de Pablo Iglesias, 42, Nord, 07004 Palma, Illes Balears, Spain",
+      "phone": "+34 871 57 57 33 ",
+      "website": "https://www.reformasjjortiz.com/"
+    },
+    {
+      "name": "Bsb Bañera Sobre Bañera",
+      "rating": null,
+      "address": "C. Antoni Ribas, 13, Llevant, 07006 Palma, Illes Balears, Spain",
+      "phone": "+34 971 46 54 40 ",
+      "website": null
+    },
+    {
+      "name": "Instalaciones Laura Monzo",
+      "rating": "(13)",
+      "address": null,
+      "phone": "+34 678 32 44 39 ",
+      "website": null
+    },
+    {
+      "name": "Instalaciones M.Forteza",
+      "rating": null,
+      "address": "Carrer de Moscari, 3A, Llevant, 07008 Palma, Illes Balears, Spain",
+      "phone": "+34 609 38 50 38 ",
+      "website": "http://www.fontelect.com/"
+    },
+    {
+      "name": "Limfotan",
+      "rating": "(4)",
+      "address": null,
+      "phone": "+34 629 30 63 88 ",
+      "website": "http://www.limfotan.es/"
+    },
+    {
+      "name": "SAT Mallorca Repara",
+      "rating": "(102)",
+      "address": "Carrer d'Henri Dunant, 26, Local, Norte, 07004 Palma, Balearic Islands, Spain",
+      "phone": "+34 971 10 46 06 ",
+      "website": "http://www.mallorcarepara.com/"
+    },
+    {
+      "name": "Mallorca Desatascos",
+      "rating": "(234)",
+      "address": null,
+      "phone": "+34 871 02 71 89 ",
+      "website": "https://www.mallorcadesatascos.es/"
+    },
+    {
+      "name": "EL FONTA ASEN",
+      "rating": "(11)",
+      "address": "Carrer del Cigne, 12, Llevant, 07006 Palma, Illes Balears, Spain",
+      "phone": "+34 653 50 69 75 ",
+      "website": "https://www.tiktok.com/@elfontaasen?_t=8omQ8yNfBx3&_r=1"
+    },
+    {
+      "name": "Manitas en Palma de Mallorca.Por horas a domicilió. Todo tipo de arreglos.",
+      "rating": "(3)",
+      "address": "Carrer del Cardenal Pou, 5, Centre, 07003 Palma, Illes Balears, Spain",
+      "phone": "+34 697 24 30 40 ",
+      "website": "https://697243040f.wixsite.com/manitasporhora"
+    },
+    {
+      "name": "Reparaciones Fontanero cerca de mí aire acondicionado",
+      "rating": null,
+      "address": "Carrer de la Balanguera, Ponent, 07011 Palma, Illes Balears, Spain",
+      "phone": null,
+      "website": null
+    },
+    {
+      "name": "Tcx Palma Fontaneria",
+      "rating": "(3)",
+      "address": "Carrer de Sant Bonaventura, 4 a, Centre, 07001 Palma, Illes Balears, Spain",
+      "phone": "+34 609 38 48 09 ",
+      "website": null
+    },
+    {
+      "name": "Multiservicios JAPER SL",
+      "rating": "(11)",
+      "address": "Carrer de Josep Sureda Blanes, 3, Ponent, 07014 Palma, Illes Balears, Spain",
+      "phone": "+34 654 44 28 34 ",
+      "website": null
+    },
+    {
+      "name": "Fontanero albañil",
+      "rating": null,
+      "address": "Carrer del Cardenal Rossell, 25 A, Platja de Palma, 07007 Palma, Balearic Islands, Spain",
+      "phone": null,
+      "website": null
+    },
+    {
+      "name": "Neta Palma",
+      "rating": "(104)",
+      "address": "Carretera de Valldemossa, 44a, Nord, 07010 Palma, Illes Balears, Spain",
+      "phone": "+34 653 62 87 43 ",
+      "website": "https://www.netapalma.com/"
+    },
+    {
+      "name": "Servi Asistencia",
+      "rating": null,
+      "address": null,
+      "phone": "+34 685 63 55 35 ",
+      "website": null
+    },
+    {
+      "name": "Servicio Técnico Calderas JUNKERS en Mallorca",
+      "rating": "(13)",
+      "address": "Carrer de Femenies, n41, 07013 Palma, Illes Balears, Spain",
+      "phone": "+34 654 04 55 41 ",
+      "website": "https://mallorcarepara.com/junkers-mallorca/"
+    },
+    {
+      "name": "Fontanería El Servicial",
+      "rating": "(5)",
+      "address": "Carrer de la Mimosa, 2, Llevant, 07008 Palma, Illes Balears, Spain",
+      "phone": "+34 971 47 53 10 ",
+      "website": null
+    },
+    {
+      "name": "Reformas Kali",
+      "rating": "(3)",
+      "address": null,
+      "phone": "+34 631 15 70 84 ",
+      "website": "http://www.reformaskali.com/"
+    },
+    {
+      "name": "Localizador Fugas Ibiza",
+      "rating": null,
+      "address": null,
+      "phone": "+34 619 93 06 80 ",
+      "website": "https://www.buscafugasibiza.es/"
+    },
+    {
+      "name": "CM Reformas y Construcción",
+      "rating": "(10)",
+      "address": "Carrer de Ferran Alzamora, 16, Platja de Palma, 07600 Palma, Illes Balears, Spain",
+      "phone": "+34 677 14 32 72 ",
+      "website": "https://umbaumallorca.com/"
+    },
+    {
+      "name": "BRANDON instalaciones",
+      "rating": "(33)",
+      "address": null,
+      "phone": "+34 644 65 91 24 ",
+      "website": "https://www.sbinstalador.es/"
+    },
+    {
+      "name": "Instal Mallorca",
+      "rating": "(13)",
+      "address": "Avinguda Setze de Juliol, 39, Pasaje C - Nave 40, 07009 Palma, Illes Balears, Spain",
+      "phone": "+34 971 43 16 50 ",
+      "website": "http://www.instal-mallorca.com/"
+    },
+    {
+      "name": "Grupo.rzak",
+      "rating": null,
+      "address": null,
+      "phone": "+34 689 48 06 83 ",
+      "website": null
+    },
+    {
+      "name": "Fontaneria A. Garcias",
+      "rating": null,
+      "address": "Carrer del Golf de Lleó, 5, Platja de Palma, 07007 Palma, Illes Balears, Spain",
+      "phone": null,
+      "website": null
+    },
+    {
+      "name": "Fontaneria Heperfont, S.L.",
+      "rating": "(3)",
+      "address": "Carrer Joan Muntaner i Bujosa, 16A, Ponent, 07011 Palma, Illes Balears, Spain",
+      "phone": "+34 971 45 31 24 ",
+      "website": null
+    },
+    {
+      "name": "Bombas Y Servicios Son Dameto",
+      "rating": "(50)",
+      "address": "Carrer de Vicenç Joan i Rosselló, 38, Ponent, 07013 Palma, Illes Balears, Spain",
+      "phone": "+34 971 45 03 89 ",
+      "website": null
+    },
+    {
+      "name": "Jopela",
+      "rating": null,
+      "address": "Calle Pare, Carrer de Faust Bonafè, 9, Levante, 07009 Palma, Balearic Islands, Spain",
+      "phone": "+34 971 43 27 51 ",
+      "website": null
+    },
+    {
+      "name": "Instalaciones Moñux",
+      "rating": "(4)",
+      "address": null,
+      "phone": "+34 606 27 67 50 ",
+      "website": null
+    },
+    {
+      "name": "Instalaciones Terronon",
+      "rating": null,
+      "address": "Carrer del Taronger, 30, Llevant, 07008 Palma, Illes Balears, Spain",
+      "phone": "+34 971 40 92 12 ",
+      "website": null
+    },
+    {
+      "name": "SAT Repara Calderas, Termos y Descalcificaciones de Agua",
+      "rating": null,
+      "address": "Carrer de Juan Gris, 71, 3C, Poniente, 07011 Palma, Balearic Islands, Spain",
+      "phone": "+34 687 38 78 25 ",
+      "website": "https://www.climatizabalear.com/"
+    },
+    {
+      "name": "Easytecnic",
+      "rating": null,
+      "address": "Carrer del Rector Antoni Ferrer, 30, Nord, 07010 Palma, Illes Balears, Spain",
+      "phone": "+34 666 94 57 83 ",
+      "website": "http://easytecnic.es/"
+    },
+    {
+      "name": "Instalproyect",
+      "rating": null,
+      "address": "Carrer del Ferro, 23, Ponent, 07013 Palma, Illes Balears, Spain",
+      "phone": null,
+      "website": null
+    },
+    {
+      "name": "Palma gas",
+      "rating": "(48)",
+      "address": "Avinguda de l'Argentina, 28, 07011 Palma, Illes Balears, Spain",
+      "phone": "+34 971 72 63 50 ",
+      "website": "http://www.palmagas.com/"
+    },
+    {
+      "name": "INSTALADORA MOISES",
+      "rating": null,
+      "address": "CAMINO DE LA VILETA 151 BJS, 07011 Palma, Balearic Islands, Spain",
+      "phone": "+34 629 62 58 49 ",
+      "website": null
+    },
+    {
+      "name": "Fontaneria Illes s.l",
+      "rating": "(8)",
+      "address": "Carrer Bartomeu Torres, 40, Llevant, 07005 Palma, Illes Balears, Spain",
+      "phone": "+34 971 24 06 31 ",
+      "website": null
+    },
+    {
+      "name": "José María Calle Hernández",
+      "rating": null,
+      "address": "Carrer de Pere Joan Llobet, 24, Llevant, 07006 Palma, Illes Balears, Spain",
+      "phone": "+34 971 46 00 66 ",
+      "website": null
+    },
+    {
+      "name": "Osifar",
+      "rating": "(117)",
+      "address": "Carrer Gremi Selleters i Basters, S/N s/n, Nord, 07009 Son Castelló, Illes Balears, Spain",
+      "phone": "+34 971 29 55 50 ",
+      "website": "http://www.osifar.com/"
+    },
+    {
+      "name": "Mantenimientos José Muñiz",
+      "rating": null,
+      "address": "Carrer Joan Muntaner i Bujosa, 5, Ponent, 07011 Palma, Illes Balears, Spain",
+      "phone": "+34 660 81 55 96 ",
+      "website": null
+    },
+    {
+      "name": "Fosepal",
+      "rating": "(20)",
+      "address": "Carrer Castillejos, 29, Bajo, Playa de Palma, 07007 Palma, Balearic Islands, Spain",
+      "phone": "+34 678 71 26 35 ",
+      "website": "http://www.fosepal.com/"
+    },
+    {
+      "name": "Ares Sl",
+      "rating": "(5)",
+      "address": "Carrer del Bisbe Sastre, 13C, Ponent, 07011 Palma, Illes Balears, Spain",
+      "phone": "+34 971 45 32 40 ",
+      "website": null
+    },
+    {
+      "name": "salas & cherino",
+      "rating": null,
+      "address": "Carrer Gremi de Forners, 27, Nord, 07009 Palma, Illes Balears, Spain",
+      "phone": "+34 657 08 30 12 ",
+      "website": null
+    },
+    {
+      "name": "Lofoten",
+      "rating": null,
+      "address": "Carrer Pere II, 10, Llevant, 07007 Palma, Illes Balears, Spain",
+      "phone": "+34 971 25 77 83 ",
+      "website": null
+    },
+    {
+      "name": "Multiservicios Kiko",
+      "rating": null,
+      "address": null,
+      "phone": "+34 666 77 79 49 ",
+      "website": "http://www.multiservicioskiko.com/"
+    },
+    {
+      "name": "GRUPO JJG",
+      "rating": "(13)",
+      "address": "Carrer de Cala Bona, 19, Llevant, 07009 Palma, Illes Balears, Spain",
+      "phone": "+34 689 65 37 65 ",
+      "website": "https://grupojjg.es/"
+    },
+    {
+      "name": "Fontaneria Romero",
+      "rating": null,
+      "address": null,
+      "phone": "+34 607 79 39 72 ",
+      "website": null
+    },
+    {
+      "name": "Ingeman instalaciones",
+      "rating": "(9)",
+      "address": "Camí dels Reis, 411, Nord, 07120 Palma, Illes Balears, Spain",
+      "phone": "+34 971 20 01 00 ",
+      "website": "http://ingemansl.es/contacto"
+    },
+    {
+      "name": "Multiservic24h",
+      "rating": "(2)",
+      "address": "Carrer Victorio Luzuriaga 26bj, Carrer de Victorio Luzuriaga, 26, A, 07015 Palma, Illes Balears, Spain",
+      "phone": "+34 622 31 00 31 ",
+      "website": "https://www.multiservic24h.com/"
+    },
+    {
+      "name": "PROYECTOS CLIMA Y CALEF BALEARES * PCC *",
+      "rating": "(4)",
+      "address": "Carrer de Niceto Alcalá Zamora, 25, 07013 Palma, Illes Balears, Spain",
+      "phone": "+34 971 73 45 50 ",
+      "website": "https://www.proyectosclimaycalef.com/"
+    },
+    {
+      "name": "Gea Service Palma de Mallorca",
+      "rating": null,
+      "address": null,
+      "phone": "+34 676 49 41 67 ",
+      "website": "https://www.geaserve.com/"
+    },
+    {
+      "name": "Servicios Mallorca Rapid",
+      "rating": "(189)",
+      "address": "2-15, Gremi des Fusters, 33, 07009 Palma, Balearic Islands, Spain",
+      "phone": "+34 971 22 79 30 ",
+      "website": "https://mallorcarapid.com/"
+    },
+    {
+      "name": "ClimaVivo Mallorca",
+      "rating": "(103)",
+      "address": "Avinguda de Joan Miró, 26, 3b, Poniente, 07014 Palma, Balearic Islands, Spain",
+      "phone": "+34 644 75 92 34 ",
+      "website": "https://www.climavivo.es/"
+    },
+    {
+      "name": "Aquacoolmultiservices sl",
+      "rating": null,
+      "address": "Passatge Particular de Sencelles, 3, Llevant, 07008 Palma, Illes Balears, Spain",
+      "phone": "+34 670 35 60 20 ",
+      "website": null
+    },
+    {
+      "name": "Nurclima",
+      "rating": "(12)",
+      "address": "Gremi des Fusters, 33, Nord, 07009 Palma, Illes Balears, Spain",
+      "phone": "+34 971 01 68 20 ",
+      "website": "http://nurclima.com/"
+    },
+    {
+      "name": "Instalación Balear",
+      "rating": "(35)",
+      "address": "Carrer de Francesc Pi i Margall, 23, Llevant, 07007 Palma, Illes Balears, Spain",
+      "phone": "+34 666 66 07 08 ",
+      "website": "https://www.instalacionbalear.com/"
+    },
+    {
+      "name": "Fontanería electricista",
+      "rating": null,
+      "address": "Carrer Joan Muntaner i Bujosa, 4, Ponent, 07011 Palma, Illes Balears, Spain",
+      "phone": null,
+      "website": null
+    },
+    {
+      "name": "Fontdeco Multiservicios",
+      "rating": null,
+      "address": "Carrer de la República Dominicana, 8, Ponent, 07014 Palma, Illes Balears, Spain",
+      "phone": "+34 658 99 31 71 ",
+      "website": "http://www.fontdeco.com/"
+    },
+    {
+      "name": "HIDROGAS S.L.",
+      "rating": "(3)",
+      "address": "Carrer NTRA. SENYORA DE BONANY, 16, bj, Poniente, 07011 Palma, Balearic Islands, Spain",
+      "phone": "+34 971 79 97 14 ",
+      "website": "http://www.hghidrogas.com/"
+    },
+    {
+      "name": "Kasko Fontaneros Mallorca",
+      "rating": null,
+      "address": "son Bibiloni, Ctra. de Sóller, km 8, Norte, 07120 Son Sardina, Balearic Islands, Spain",
+      "phone": "+34 602 63 32 75 ",
+      "website": "https://fontanerosmallorca.es/"
+    },
+    {
+      "name": "José Daniel Trejo",
+      "rating": null,
+      "address": "C/ de Lluís Martí, 97, Llevant, 07007 Palma, Illes Balears, Spain",
+      "phone": null,
+      "website": null
+    },
+    {
+      "name": "Multiservicios Verticales",
+      "rating": null,
+      "address": "C/ d'Osca, 32, Llevant, 07005 Palma, Illes Balears, Spain",
+      "phone": "+34 971 10 44 36 ",
+      "website": "http://multiserviciosverticales.es/"
+    },
+    {
+      "name": "Dana Oro María Sl",
+      "rating": null,
+      "address": "Baixos, C/ dels Oms, 28, 07003 Palma, Illes Balears, Spain",
+      "phone": "+34 697 47 95 18 ",
+      "website": null
+    },
+    {
+      "name": "La Fontanera de Palma",
+      "rating": null,
+      "address": null,
+      "phone": "+34 666 84 26 06 ",
+      "website": "https://www.lafontaneradepalma.com/"
+    },
+    {
+      "name": "SANIELECTRIC JM, SLU. Instalaciones sanitarias",
+      "rating": null,
+      "address": null,
+      "phone": "+34 636 71 57 59 ",
+      "website": null
+    },
+    {
+      "name": "Nouserveis Fontanería, S.L.U.",
+      "rating": "(3)",
+      "address": null,
+      "phone": "+34 971 83 75 63 ",
+      "website": "http://nouserveis.com/"
+    },
+    {
+      "name": "Innova2",
+      "rating": "(8)",
+      "address": "C. dels Foners, 54, Llevant, 07006 Palma, Illes Balears, Spain",
+      "phone": "+34 971 09 90 87 ",
+      "website": null
+    },
+    {
+      "name": "Reformas Carmen",
+      "rating": "(5)",
+      "address": "C/ del General Riera, 35, Nord, 07010 Palma, Illes Balears, Spain",
+      "phone": "+34 617 24 40 20 ",
+      "website": "https://www.reformascarmen.es/"
+    },
+    {
+      "name": "Instaladora Cardell S.A.",
+      "rating": "(5)",
+      "address": "C. Can Valero, Nº5, Ponent, 07011 Palma, Illes Balears, Spain",
+      "phone": "+34 971 73 78 89 ",
+      "website": "https://www.instaladoracardell.es/"
+    },
+    {
+      "name": "Handyman Renovations Mallorca",
+      "rating": "(35)",
+      "address": null,
+      "phone": "+34 615 91 26 00 ",
+      "website": "http://handymanexpressmallorca.com/?utm_source=gmb&utm_medium=referral"
+    },
+    {
+      "name": "House Repair Mallorca",
+      "rating": "(2)",
+      "address": null,
+      "phone": "+34 665 08 28 48 ",
+      "website": null
+    },
+    {
+      "name": "MIA Construcciones",
+      "rating": null,
+      "address": "Carrer Torcuato Luca Tena, 40, Llevant, 07005 Palma, Illes Balears, Spain",
+      "phone": "+34 602 34 72 28 ",
+      "website": "https://www.miaconstrucciones.org/inicio"
+    },
+    {
+      "name": "Fontanería Puig Garau, Llucmajor",
+      "rating": "(22)",
+      "address": "Passeig de Jaume III, 1, local B, 07620 Llucmajor, Balearic Islands, Spain",
+      "phone": "+34 971 66 09 77 ",
+      "website": null
+    },
+    {
+      "name": "Aquaglobal Solutions Baleares",
+      "rating": "(16)",
+      "address": "C. de Manacor, 347, Llevant, 07199 Son Ferriol, Illes Balears, Spain",
+      "phone": "+34 971 42 88 87 ",
+      "website": "http://aquaglobal.es/"
+    },
+    {
+      "name": "Sanysistem",
+      "rating": "(8)",
+      "address": "Carrer Prevere Rafael Barrera, 30, Llevant, 07005 Palma, Illes Balears, Spain",
+      "phone": "+34 971 24 74 74 ",
+      "website": "http://sanysistem.com/"
+    },
+    {
+      "name": "Antonio Pulido Sierra",
+      "rating": null,
+      "address": "Av. Tomàs de Villanueva Cortés, 3, Nord, 07004 Palma, Illes Balears, Spain",
+      "phone": "+34 629 11 29 29 ",
+      "website": null
+    },
+    {
+      "name": "FONTANERIA SIN OBRAS BALEARES",
+      "rating": "(2)",
+      "address": "Cami de, Carrer Gremi Selleters i Basters, s/n, 07009 Son Castelló, Illes Balears, Spain",
+      "phone": "+34 971 29 55 50 ",
+      "website": "http://fsobaleares.com/"
+    }
+  ]

@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Artverd",
+        "rating": "(53)",
+        "address": "Av. de Prat de la Riba, 8, 43001 Tarragona, Spain",
+        "phone": "+34 610 65 22 56 ",
+        "website": "https://art-verd.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardí Verd",
+        "rating": "(12)",
+        "address": "Carrer de Fèlix Ferrer i Galceran, 37, 43007 Tarragona, Spain",
+        "phone": "+34 625 67 73 83 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardines tgn",
+        "rating": "(7)",
+        "address": "Carrer de la Classificació, 43006, 43001 Tarragona, Spain",
+        "phone": "+34 631 61 22 60 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Siscar",
+        "rating": "(2)",
+        "address": "Carrer Blanca d'Anjou, 12, 43007 Tarragona, Spain",
+        "phone": "+34 600 44 84 37 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Vertiflor",
+        "rating": "(11)",
+        "address": "Carrer Pau del Protectorat, 16 - PB, 2, 43004 Tarragona, Spain",
+        "phone": "+34 661 41 96 40 ",
+        "website": "https://www.vertiflor.com/",
+        "emails": null
+    },
+    {
+        "name": "AGROMAR AGRORIBAS",
+        "rating": "(36)",
+        "address": "Carrer d'Eivissa, 1, 43005 Tarragona, Spain",
+        "phone": "+34 977 22 82 11 ",
+        "website": "http://agromartarragona.com/",
+        "emails": null
+    },
+    {
+        "name": "Adrian Jardinería",
+        "rating": "(11)",
+        "address": null,
+        "phone": "+34 645 67 67 30 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "JARDINERIA VILA SECA- L'ARITJOL JARDINERS",
+        "rating": "(12)",
+        "address": "Poligon Alba, Carrer de les Comes, 50, 43480 Vila-seca, Tarragona, Spain",
+        "phone": "+34 606 16 81 61 ",
+        "website": "http://www.jardineriaaritjol.es/",
+        "emails": null
+    },
+    {
+        "name": "BenetNatura - Jardineria",
+        "rating": "(2)",
+        "address": "43143 La Masó, Tarragona, Spain",
+        "phone": "+34 627 68 74 09 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Mantenimientos y Jardines Tarragona",
+        "rating": null,
+        "address": "Carrer del Taquígraf Martí, 5, 43002 Tarragona, Spain",
+        "phone": "+34 642 82 29 89 ",
+        "website": "http://mantenimientosjardinestarragona.es/",
+        "emails": null
+    },
+    {
+        "name": "Garden Tapioles",
+        "rating": "(184)",
+        "address": "Carr. del Catllar, 43764 El Catllar, Tarragona, Spain",
+        "phone": "+34 977 05 03 42 ",
+        "website": "http://gardensgruplarasa.blogspot.com.es/",
+        "emails": null
+    },
+    {
+        "name": "Urbaser S. A.",
+        "rating": null,
+        "address": "Carrer del Carbó, 51, Nau 19, 43006 Tarragona, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "CATJARDI JARDINERIA RIUDOMS",
+        "rating": null,
+        "address": "Carrer de la Mercè Rodoreda, 15, 1º 2ª, 43330 Riudoms, Tarragona, Spain",
+        "phone": "+34 606 33 63 53 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "JARDINERÍA MIRALLES",
+        "rating": "(34)",
+        "address": "Carrer del Romaní, 49, 43700 El Vendrell, Tarragona, Spain",
+        "phone": "+34 635 40 06 90 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardin’s. Empresa de Jardineria",
+        "rating": "(33)",
+        "address": "Polígono Industrial Estación de Mercaderies, 8, 43896 L'Aldea, Tarragona, Spain",
+        "phone": "+34 676 58 61 52 ",
+        "website": "https://www.jardins.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardinería Roda de Barà",
+        "rating": "(18)",
+        "address": null,
+        "phone": "+34 629 20 48 46 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Césped artificial en casa",
+        "rating": "(125)",
+        "address": "Carrer d'Eladi Homs, 4, 43850 Cambrils, Tarragona, Spain",
+        "phone": "+34 607 29 24 32 ",
+        "website": "https://www.cespedartificialencasa.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardinería Agaves",
+        "rating": null,
+        "address": null,
+        "phone": "+34 666 38 31 25 ",
+        "website": "https://jardineria-agaves.ueniweb.com/",
+        "emails": null
+    },
+    {
+        "name": "Césped universal",
+        "rating": "(130)",
+        "address": "Carrer Francolí, 11, 43141 Vilallonga del Camp, Tarragona, Spain",
+        "phone": "+34 677 04 97 58 ",
+        "website": "https://cespeduniversal.com/",
+        "emails": null
+    },
+    {
+        "name": "JARDINERIA FREIXA",
+        "rating": "(105)",
+        "address": "Ctra. d'Alcover, C-37, KM 5, 43800 Valls, Tarragona, Spain",
+        "phone": "+34 977 60 60 87 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Dani Luaces - El Árbol del Desierto - Paisajismo",
+        "rating": "(8)",
+        "address": "Carrer del Mas d'en Garrot, 46, 43130 Tarragona, Spain",
+        "phone": "+34 645 40 45 52 ",
+        "website": "https://daniluaces.com/",
+        "emails": null
+    },
+    {
+        "name": "FARID TARRAGONA",
+        "rating": null,
+        "address": "43006 Tarragona, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Servijardí Cambrils",
+        "rating": "(49)",
+        "address": "Carrer Rosa Sensat, 26, 43850 Cambrils, Tarragona, Spain",
+        "phone": "+34 609 16 27 10 ",
+        "website": "http://www.servijardi.com/",
+        "emails": null
+    },
+    {
+        "name": "GARDEN NOVA",
+        "rating": "(264)",
+        "address": "Crta. Reus a Cambrils, TV-3141, 43330 Riudoms, Tarragona, Spain",
+        "phone": "+34 977 12 01 02 ",
+        "website": "http://www.gardennova.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Cunit",
+        "rating": "(32)",
+        "address": "Carrer de la Conca de Barberà, 32, 43881 Cunit, Tarragona, Spain",
+        "phone": null,
+        "website": "http://www.facebook.com/jardineriacunit",
+        "emails": null
+    },
+    {
+        "name": "Jardineros Cunit",
+        "rating": "(27)",
+        "address": "Carrer Tuca, 31, 43881 Cunit, Tarragona, Spain",
+        "phone": "+34 682 52 07 13 ",
+        "website": "https://www.jardineroscunit.com/",
+        "emails": null
+    },
+    {
+        "name": "PROMAS JARDINERIA",
+        "rating": null,
+        "address": "Crta, TV-7211, Km8, 43120 Constantí, Tarragona, Spain",
+        "phone": "+34 675 21 39 00 ",
+        "website": "http://www.promas.cat/",
+        "emails": null
+    },
+    {
+        "name": "L'ARBREDA - JARDINERIA Y PODA EN ALTURA / Jardineria i Poda en alçada",
+        "rating": "(8)",
+        "address": "Carrer Ample, 14, 43830 Torredembarra, Tarragona, Spain",
+        "phone": "+34 696 16 16 71 ",
+        "website": "http://www.larbreda.cat/",
+        "emails": null
+    },
+    {
+        "name": "Belen Mutllo Paisajismo",
+        "rating": "(8)",
+        "address": null,
+        "phone": "+34 626 20 53 10 ",
+        "website": "http://www.belenmutllo.com/",
+        "emails": null
+    },
+    {
+        "name": "Ivette i Céline jardineria SL",
+        "rating": "(18)",
+        "address": "Passeig del Pla, 285, 43800 Valls, Tarragona, Spain",
+        "phone": "+34 653 93 98 87 ",
+        "website": "http://www.jardineriarafi.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardiland",
+        "rating": "(3,190)",
+        "address": "Carrer dels Matalassers, 43204 Reus, Tarragona, Spain",
+        "phone": "+34 977 39 57 87 ",
+        "website": "https://www.jardiland.com/magasins/magasin-reus?utm_source=GMB&utm_campaign=Multidiffusion&utm_medium=local&utm_content=611",
+        "emails": null
+    },
+    {
+        "name": "Plantverd Serveis de Jardineria al Camp de Tarragona",
+        "rating": null,
+        "address": null,
+        "phone": "+34 616 60 14 95 ",
+        "website": "https://www.instagram.com/plantverd/",
+        "emails": null
+    },
+    {
+        "name": "Jardiner Segur de Calafell",
+        "rating": "(4)",
+        "address": "avenida inglaterra n\\100 bajos 3, 43882 Segur de Calafell, Tarragona, Spain",
+        "phone": "+34 635 88 56 43 ",
+        "website": "https://www.jardinerosegurcalafell.com/",
+        "emails": null
+    },
+    {
+        "name": "Sector arbol",
+        "rating": "(22)",
+        "address": "Carrer La Muga, 29, 43719 Bellvei, Tarragona, Spain",
+        "phone": "+34 711 74 55 52 ",
+        "website": "https://www.sectorarbol.es/",
+        "emails": null
+    },
+    {
+        "name": "Q Verd Jardiners",
+        "rating": "(7)",
+        "address": "Carrer d'Ignasi Iglésias, 135, 43206 Reus, Tarragona, Spain",
+        "phone": "+34 977 30 04 15 ",
+        "website": "http://www.qverd.com/",
+        "emails": null
+    },
+    {
+        "name": "Balanyà Jardiners",
+        "rating": null,
+        "address": "Carreró del Gas, 13, 43204 Reus, Tarragona, Spain",
+        "phone": "+34 659 26 05 77 ",
+        "website": "http://www.balanyajardiners.com/",
+        "emails": null
+    },
+    {
+        "name": "Entreplantes Jardineria",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 610 73 35 77 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Verd & Natura Jardins",
+        "rating": null,
+        "address": "Passatge de Vilella i Puig, 5, 43203 Reus, Tarragona, Spain",
+        "phone": null,
+        "website": "https://www.verdnaturajardins.com/",
+        "emails": null
+    },
+    {
+        "name": "iNova Jardines y Piscinas",
+        "rating": "(14)",
+        "address": null,
+        "phone": "+34 633 94 26 51 ",
+        "website": "https://inovajardineria.my.canva.site/",
+        "emails": null
+    },
+    {
+        "name": "Dr. Choper",
+        "rating": null,
+        "address": "Sergiramare@Gmail.Com, 43003 Tarragona, Spain",
+        "phone": null,
+        "website": "https://dr-choper.ueniweb.com/?utm_campaign=gmb",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Ripoll 🌱",
+        "rating": "(23)",
+        "address": "Carrer Joaquim Blume, 10, 08800 Vilanova i la Geltrú, Barcelona, Spain",
+        "phone": "+34 620 90 14 92 ",
+        "website": "https://jardineriaripoll.com/",
+        "emails": null
+    },
+    {
+        "name": "Ignasi Jardiners",
+        "rating": "(30)",
+        "address": "Av. de la Cossetània, 101, 43820 Calafell, Tarragona, Spain",
+        "phone": "+34 664 13 19 53 ",
+        "website": "https://ignasijardiners.es/",
+        "emails": null
+    }
+]

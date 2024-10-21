@@ -1,0 +1,330 @@
+[
+    {
+        "name": "Electricidad Cochon",
+        "rating": "(45)",
+        "address": "Av. A Barca, 16, 36163 Poio, Pontevedra, Spain",
+        "phone": "+34 986 87 21 73 ",
+        "website": "https://www.pide-lo.es/electricidad-cochon",
+        "emails": null
+    },
+    {
+        "name": "Ucha Instalaciones Eléctricas",
+        "rating": "(5)",
+        "address": "Rúa Losada Diéguez, 10, Bajo, 36004 Pontevedra, Spain",
+        "phone": "+34 659 93 10 19 ",
+        "website": "http://www.ucha.es/",
+        "emails": null
+    },
+    {
+        "name": "Acuña Electricidad",
+        "rating": "(19)",
+        "address": "Tomeza O pobo 35, 36158, Pontevedra, Spain",
+        "phone": "+34 627 70 17 30 ",
+        "website": "http://www.xn--acuaelectricidad-8tb.com/",
+        "emails": null
+    },
+    {
+        "name": "Abimac Instalacións Industriais",
+        "rating": "(8)",
+        "address": "Avda. de Vigo, 2 Ofc. B Taller D Cabanas, 36143 Salcedo, Pontevedra, Spain",
+        "phone": "+34 639 54 89 62 ",
+        "website": "https://www.abimacinstalaciones.es/",
+        "emails": null
+    },
+    {
+        "name": "Instalacións Eléctricas Pintos S L",
+        "rating": "(46)",
+        "address": "Calle Puente Nuevo, 8, 36003 Pontevedra, Spain",
+        "phone": "+34 986 86 29 61 ",
+        "website": "http://www.pintossl.es/",
+        "emails": null
+    },
+    {
+        "name": "Pontelec",
+        "rating": null,
+        "address": "Rúa Valentín Paz Andrade, 8, 4ºA, 36005 Pontevedra, Spain",
+        "phone": "+34 676 66 55 04 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad San Roque",
+        "rating": "(6)",
+        "address": "Rúa de San Roque de Abaixo, 35, BAJO, 36002 Pontevedra, Spain",
+        "phone": "+34 986 85 25 04 ",
+        "website": "http://electricidadsanroque.es/",
+        "emails": null
+    },
+    {
+        "name": "ORSE Fontanería, Electricidad, Piscinas y Riegos",
+        "rating": "(31)",
+        "address": "Rúa Eduardo Pondal, 37, BAJO, 36003 Pontevedra, Spain",
+        "phone": "+34 986 85 68 57 ",
+        "website": "https://www.orse.es/?utm_source=Google%20My%20Business&utm_medium=url&utm_campaign=referals",
+        "emails": null
+    },
+    {
+        "name": "INELMA Instalaciones Eléctricas y Servicios",
+        "rating": "(15)",
+        "address": "Rúa de Portugal, 60, 36162 Pontevedra, Spain",
+        "phone": "+34 986 07 60 15 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Voltiamper Electricidad",
+        "rating": "(3)",
+        "address": "R. Echegaray, 39, 36002 Pontevedra, Spain",
+        "phone": "+34 657 64 09 18 ",
+        "website": "https://facebook.com/voltiamperpontevedra",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones JMB",
+        "rating": "(6)",
+        "address": "Rúa de Escocia, 1, bajo, 36162 Pontevedra, Spain",
+        "phone": "+34 630 36 48 65 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "J JUSTO PEREZ Electricidad",
+        "rating": "(5)",
+        "address": "Pazos, 40, 36158 Marcón, Pontevedra, Spain",
+        "phone": "+34 655 23 45 76 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Elecpont",
+        "rating": null,
+        "address": null,
+        "phone": "+34 604 08 80 67 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Wationova S.L.",
+        "rating": "(6)",
+        "address": "R. de Monteleón, 2, 36002 Pontevedra, Spain",
+        "phone": "+34 672 32 73 42 ",
+        "website": "https://wationova.com/",
+        "emails": null
+    },
+    {
+        "name": "González INTELGON",
+        "rating": null,
+        "address": "Rúa Leandro del Río Carnota, 9, 36156 Pontevedra, Spain",
+        "phone": "+34 986 87 14 18 ",
+        "website": "http://intelgon.com/",
+        "emails": null
+    },
+    {
+        "name": "INSTABI",
+        "rating": "(3)",
+        "address": null,
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalacións Eléctricas JS",
+        "rating": "(15)",
+        "address": null,
+        "phone": "+34 618 64 33 83 ",
+        "website": "https://www.instalacionselectricasjoseesuso.es/",
+        "emails": null
+    },
+    {
+        "name": "Lumarsa Instalaciones Electricas",
+        "rating": "(3)",
+        "address": "Av. Lugo, 94, 36004 Pontevedra, Spain",
+        "phone": "+34 669 88 57 40 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Mapipe Instalaciones Eléctricas - Electricistas autorizados en Arcade, Pontevedra",
+        "rating": "(14)",
+        "address": "Rúa do Calvario, 7, 36690 Pontevedra, Spain",
+        "phone": "+34 630 13 27 87 ",
+        "website": "https://mapipeinstalacioneselectricas.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Jorge Piñeiro- EJP",
+        "rating": "(22)",
+        "address": "Rúa Camiño Vello, 110, entresuelo A, 36913 Seixo, Pontevedra, Spain",
+        "phone": "+34 696 09 06 40 ",
+        "website": "http://electricidadejp.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidade Collazo",
+        "rating": null,
+        "address": "Rúa de San Roque de Abaixo, 7, 36001 Pontevedra, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "EMILIO RODRIGUEZ PAZOS, S.L.",
+        "rating": "(4)",
+        "address": "Rua CARBALLA, 56, BAJO, 36143 A Carballa, Pontevedra, Spain",
+        "phone": "+34 986 84 11 05 ",
+        "website": "http://www.armariosguadiana.com/",
+        "emails": null
+    },
+    {
+        "name": "Fenogal",
+        "rating": null,
+        "address": "Rúa Peregrina, 1, 36001 Pontevedra, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Ingalec",
+        "rating": null,
+        "address": "Cruz Roja (Plaza de la Castaña, 36913 Pontevedra, Spain",
+        "phone": "+34 656 98 93 03 ",
+        "website": "http://ingalec.es/",
+        "emails": null
+    },
+    {
+        "name": "Tecnelsa",
+        "rating": "(8)",
+        "address": "Rúa do Empalme, 14, 36990 Sanxenxo, Pontevedra, Spain",
+        "phone": "+34 627 56 48 55 ",
+        "website": "http://www.tecnelsa.es/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Electro La Guardia S L",
+        "rating": "(23)",
+        "address": "Estrada do Castro, 1, 36789 A Guarda, Pontevedra, Spain",
+        "phone": "+34 986 61 39 43 ",
+        "website": "http://www.electrolaguardia.es/index.html",
+        "emails": null
+    },
+    {
+        "name": "Doselco Electricidad",
+        "rating": "(7)",
+        "address": "Redondo, 29, 36640 Pontecesures, Pontevedra, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontanería Victor Freijeiro",
+        "rating": "(24)",
+        "address": null,
+        "phone": "+34 604 03 83 66 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Selgasa",
+        "rating": "(39)",
+        "address": "Rüa do Gavián, 1, local A, 36860 Ponteareas, Pontevedra, Spain",
+        "phone": "+34 668 56 05 16 ",
+        "website": "http://www.selgasa.com/",
+        "emails": null
+    },
+    {
+        "name": "Ibérica De Mantenimiento S A",
+        "rating": null,
+        "address": "Calle del Dr Loureiro Crespo, 2, 36001 Pontevedra, Spain",
+        "phone": "+34 986 84 44 84 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Pontevedra | Electricidad Lucintensa | Vilagarcía De Arousa | Electricidad Lucio S.L",
+        "rating": "(4)",
+        "address": "Avd. Las, Avenida das Carolinas, 60, 36610 Vilagarcía de Arousa, Pontevedra, Spain",
+        "phone": "+34 610 23 44 32 ",
+        "website": "https://lucintensa.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Valado",
+        "rating": "(2)",
+        "address": "Rúa Valado, 70, 36939 Bueu, Pontevedra, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Lago",
+        "rating": "(2)",
+        "address": "Lugar, 36883 Cabo de Vila, Pontevedra, Spain",
+        "phone": "+34 677 04 30 33 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "ESYTEGA | Electricidad, Placas solares y Telecomunicaciones (Electricista, Antenas de TDT y satélite)",
+        "rating": "(12)",
+        "address": "Av. Buenos Aires, nº3, 1º Piso, 36400 O Porriño, Pontevedra, Spain",
+        "phone": "+34 986 11 56 13 ",
+        "website": "https://esytega.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidade Fonte De Campo",
+        "rating": "(5)",
+        "address": "Rúa Sta. Eulalia, 5, 36540 Silleda, Pontevedra, Spain",
+        "phone": "+34 679 04 66 35 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Échame un Cable",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 611 06 81 59 ",
+        "website": "https://www.echameuncable.es/",
+        "emails": null
+    },
+    {
+        "name": "Jjg Electricidad",
+        "rating": null,
+        "address": "Rúa Mestre Soutullo, 23, Lavadores, 36205 Vigo, Pontevedra, Spain",
+        "phone": "+34 649 90 90 90 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Noroinstal sistemas e instalaciones, s. l..",
+        "rating": null,
+        "address": "36598 Besexos, Pontevedra, Spain",
+        "phone": "+34 986 58 26 36 ",
+        "website": "http://noroinstal.com/",
+        "emails": null
+    },
+    {
+        "name": "Electro Marconi",
+        "rating": "(12)",
+        "address": "Rúa Padre Fernando Olmedo, 42, 36002 Pontevedra, Spain",
+        "phone": "+34 986 84 57 20 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electro Galicia S. L.",
+        "rating": "(26)",
+        "address": "Avenida Sanguiñeda, 145 - Bajo, Sanguiñeda, Galicia, Avenida de Sanguiñeda, 145, 36419, Pontevedra, Spain",
+        "phone": "+34 986 33 12 01 ",
+        "website": "http://www.electrogalicia.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidade Tecnisa SL",
+        "rating": "(17)",
+        "address": "Camiño da Seara, 39, Freixeiro, 36211 Vigo, Pontevedra, Spain",
+        "phone": "+34 986 20 18 10 ",
+        "website": "http://www.electricidadtecnisa.es/",
+        "emails": null
+    }
+]

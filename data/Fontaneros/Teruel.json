@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Esteban Ripoll S.L.U",
+        "rating": "(164)",
+        "address": "Rda. Dámaso Torán, 68, 44003 Teruel, Spain",
+        "phone": "+34 978 60 27 55 ",
+        "website": "https://www.estebanripoll.com/",
+        "emails": null
+    },
+    {
+        "name": "INSTALACIONES JUCAR",
+        "rating": "(36)",
+        "address": "Rda. de Ambeles, 34, 44001 Teruel, Spain",
+        "phone": "+34 640 15 99 12 ",
+        "website": "http://www.instalacionesjucar.es/",
+        "emails": null
+    },
+    {
+        "name": "Almacén Suministros Esteban Ripoll",
+        "rating": "(40)",
+        "address": "C. Ollerías del Calvario, 53, 44003 Teruel, Spain",
+        "phone": "+34 978 60 95 24 ",
+        "website": "https://www.estebanripoll.com/",
+        "emails": null
+    },
+    {
+        "name": "PLUMBING Vicente Cebrian, S.L.",
+        "rating": "(64)",
+        "address": "C. de Luis Buñuel, 8, 44002 Teruel, Spain",
+        "phone": "+34 978 60 50 17 ",
+        "website": "http://vcebrian.com/",
+        "emails": null
+    },
+    {
+        "name": "J&M Fontaneria",
+        "rating": null,
+        "address": null,
+        "phone": "+34 640 81 20 08 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones H2O",
+        "rating": null,
+        "address": "C. Ollerías del Calvario, 5, bajo, 44003 Teruel, Spain",
+        "phone": "+34 650 76 30 85 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "DESATASCOS TERUEL 24H.DESROM IBERIA S.L.U",
+        "rating": "(3)",
+        "address": "Crta.San Blas.poligono, 49, parcela 337, 44003 Teruel, Spain",
+        "phone": "+34 655 07 99 93 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Gorriz y Liberos",
+        "rating": null,
+        "address": "Rbla. San Julián, 42, 44003 Teruel, Spain",
+        "phone": "+34 650 98 23 50 ",
+        "website": "http://www.gorrizyliberos.com/",
+        "emails": null
+    },
+    {
+        "name": "Abril Soluciones",
+        "rating": "(61)",
+        "address": "Poligono La Paz, C/A Parc, 2, 44195 Teruel, Spain",
+        "phone": "+34 978 62 11 90 ",
+        "website": "https://www.abrilsoluciones.es/",
+        "emails": null
+    },
+    {
+        "name": "Fontanería Herrero",
+        "rating": "(28)",
+        "address": "Ronda de Caspe, 8, Bajo, 44600 Alcañiz, Teruel, Spain",
+        "phone": "+34 978 87 11 03 ",
+        "website": "http://www.fontaneriaherrero.es/",
+        "emails": null
+    },
+    {
+        "name": "Gomez Arauz",
+        "rating": null,
+        "address": "Ctra. San Julián, 65, 44003 Teruel, Spain",
+        "phone": "+34 978 61 12 42 ",
+        "website": "https://gomezarauz.es/",
+        "emails": null
+    },
+    {
+        "name": "Mario Fontanería",
+        "rating": "(2)",
+        "address": "Av. El Poyo del Cid, 19, 44200 Calamocha, Teruel, Spain",
+        "phone": "+34 978 73 11 53 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Angel Calpe Guillén",
+        "rating": null,
+        "address": "C. de Luis Buñuel, 29, 44002 Teruel, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    }
+]

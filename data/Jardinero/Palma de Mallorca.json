@@ -1,0 +1,469 @@
+[
+    {
+        "name": "Jardinería Mallorquina Pujol",
+        "rating": "(161)",
+        "address": "Camí de Jesús, 44, Local Nº 3 Nave M/25, Poniente, 07011 Palma, Balearic Islands, Spain",
+        "phone": "+34 629 36 40 90 ",
+        "website": "https://www.jardineriamallorquinapujol.com/",
+        "emails": null
+    },
+    {
+        "name": "Poda de arboles y palmeras Jardines Stoyanoff",
+        "rating": "(101)",
+        "address": "Camí de Son Gotleu, 36, 3b, Levante, 07008 Palma, Balearic Islands, Spain",
+        "phone": "+34 634 05 01 31 ",
+        "website": "https://jardinesstoyanoff.es/",
+        "emails": null
+    },
+    {
+        "name": "Aperelló jardines",
+        "rating": "(63)",
+        "address": "C/ de Lluís Martí, 124, Llevant, 07007 Palma, Illes Balears, Spain",
+        "phone": "+34 698 85 45 63 ",
+        "website": "https://www.aperellojardinesmallorca.com/",
+        "emails": null
+    },
+    {
+        "name": "TecnoJardi",
+        "rating": "(16)",
+        "address": "Carrer de Contestí, 1, Ponent, 07014 Palma, Illes Balears, Spain",
+        "phone": "+34 607 69 34 67 ",
+        "website": "https://www.tecnojardi.net/",
+        "emails": null
+    },
+    {
+        "name": "Bon jardí",
+        "rating": "(17)",
+        "address": "Carrer del Ter, 27, Llevant, 07009 Palma, Illes Balears, Spain",
+        "phone": "+34 677 00 92 76 ",
+        "website": "http://www.bonjardi.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria & Eventos - El Melocotón Mallorca",
+        "rating": "(4)",
+        "address": null,
+        "phone": "+34 601 49 14 60 ",
+        "website": "https://www.elmelocotonmallorca.com/",
+        "emails": null
+    },
+    {
+        "name": "JFer Jardinería",
+        "rating": null,
+        "address": "C/ del Marquès de la Fontsanta, Llevant, 07005 Palma, Illes Balears, Spain",
+        "phone": "+34 603 08 85 53 ",
+        "website": "https://www.jferjardineria.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardines RCP",
+        "rating": null,
+        "address": null,
+        "phone": "+34 634 87 56 34 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardineros de Mallorca",
+        "rating": null,
+        "address": null,
+        "phone": "+34 642 14 61 15 ",
+        "website": "https://jardinerosdemallorca.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Garmim",
+        "rating": "(37)",
+        "address": "Carrer Jacint Verdaguer, 31, Nord, 07004 Palma, Illes Balears, Spain",
+        "phone": "+34 971 70 10 93 ",
+        "website": "http://www.garmim.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardins sempervirens",
+        "rating": "(7)",
+        "address": "Carrer de Ternelles, 5, bajos, Poniente, 07013 Palma, Balearic Islands, Spain",
+        "phone": "+34 669 86 67 92 ",
+        "website": "https://www.jardinssempervirens.com/es",
+        "emails": null
+    },
+    {
+        "name": "Palma Gardens",
+        "rating": "(5)",
+        "address": null,
+        "phone": "+34 695 73 26 56 ",
+        "website": "https://palmagardens.com/",
+        "emails": null
+    },
+    {
+        "name": "B-GREENUP",
+        "rating": "(3)",
+        "address": "Carrer de Sant Vicenç de Paül, 41, Nord, 07010 Palma, Illes Balears, Spain",
+        "phone": "+34 971 16 07 43 ",
+        "website": "http://www.b-greenup.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardines Gomariz",
+        "rating": "(23)",
+        "address": "Carrer Can Consciència, 4, 07141 Marratxí, Illes Balears, Spain",
+        "phone": "+34 971 79 44 31 ",
+        "website": "http://www.jardinesgomariz.es/",
+        "emails": null
+    },
+    {
+        "name": "Servicios Raúl Aguiló",
+        "rating": "(20)",
+        "address": "07196, 07181 Calvià, Balearic Islands, Spain",
+        "phone": "+34 648 15 72 78 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardinería Emilio Flores",
+        "rating": null,
+        "address": null,
+        "phone": "+34 971 60 09 05 ",
+        "website": "http://www.jardinerosmallorca.com/",
+        "emails": null
+    },
+    {
+        "name": "EDEN",
+        "rating": "(12)",
+        "address": "C. del Conquistador, 8, Centre, 07001 Palma, Illes Balears, Spain",
+        "phone": "+34 971 04 86 04 ",
+        "website": "http://mallorca-eden.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineros Mallorca",
+        "rating": "(6)",
+        "address": null,
+        "phone": "+34 630 34 33 36 ",
+        "website": "https://www.jardinerosmallorca.es/",
+        "emails": null
+    },
+    {
+        "name": "Vivers Can Juanito",
+        "rating": "(481)",
+        "address": "Carretera Palma – Manacor, Km 6,6 07198, 07198 Mallorca, Balearic Islands, Spain",
+        "phone": "+34 971 42 83 20 ",
+        "website": "http://www.canjuanito.com/",
+        "emails": null
+    },
+    {
+        "name": "brumomi",
+        "rating": null,
+        "address": "Carrer d'Antoni Pons, nº, 14, 07013 Palma, Illes Balears, Spain",
+        "phone": "+34 626 82 95 71 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "RS Mallorca | Pool und Garten",
+        "rating": null,
+        "address": "Carrer d'Adolf Vázquez Humasqué, Ponent, 07015 Palma, Illes Balears, Spain",
+        "phone": "+34 871 25 31 36 ",
+        "website": "https://www.garten-mallorca.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardines en Scala",
+        "rating": "(16)",
+        "address": "Carrer Reina Violant, 7, Llevant, 07005 Palma, Illes Balears, Spain",
+        "phone": "+34 652 66 00 83 ",
+        "website": "http://www.jardinesenscala.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardinería y Poda DIARRA | Pinos y Palmeras Islas Baleares",
+        "rating": "(6)",
+        "address": "Carrer Manacor, 419 BJS, Levante, 07199 Sa Casa Blanca, Balearic Islands, Spain",
+        "phone": "+34 679 14 67 91 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardinería Aguilar Mallorca",
+        "rating": "(2)",
+        "address": "Carrer d'Indalecio Prieto, 40, Llevant, 07008 Palma, Illes Balears, Spain",
+        "phone": "+34 631 97 03 07 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Verd Sóller S.L.",
+        "rating": "(8)",
+        "address": "Carrer de Samil, 39-23, Platja de Palma, 07610 Palma, Illes Balears, Spain",
+        "phone": "+34 670 40 70 10 ",
+        "website": "http://verdsoller.com/",
+        "emails": null
+    },
+    {
+        "name": "Greenstyle Mallorca S.L.",
+        "rating": null,
+        "address": "Carrer de la Dornarda, 16b, 07639 Campos, Illes Balears, Spain",
+        "phone": "+34 642 44 19 44 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Remaf Villa",
+        "rating": "(17)",
+        "address": "Carrer Ramón Valenilla, 10, 07470 Port de Pollença, Illes Balears, Spain",
+        "phone": "+34 666 00 48 10 ",
+        "website": "https://remafvilla.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardins de Tramuntana",
+        "rating": "(58)",
+        "address": "Carr. de Valldemossa, 9, 3, Nord, 07120 Palma, Illes Balears, Spain",
+        "phone": "+34 971 61 06 02 ",
+        "website": "https://www.jardinstramuntana.com/",
+        "emails": null
+    },
+    {
+        "name": "Garden Island",
+        "rating": "(11)",
+        "address": "Calle Vinya 10 , Bella luna 13, Cala Egos, Santanyi, 07660 Cala d'Or, Balearic Islands, Spain",
+        "phone": "+34 609 78 10 86 ",
+        "website": "http://gardenisland.es/",
+        "emails": null
+    },
+    {
+        "name": "URBIENT",
+        "rating": "(2)",
+        "address": "Jaume III, 12. 2º Entresuelo D, 07012 Palma, Balearic Islands, Spain",
+        "phone": "+34 971 66 46 43 ",
+        "website": "https://www.urbient.com/",
+        "emails": null
+    },
+    {
+        "name": "Pepe Gardener",
+        "rating": null,
+        "address": "Plaça de Santa Eulàlia, 7, Centre, 07001 Palma, Illes Balears, Spain",
+        "phone": "+34 640 39 69 53 ",
+        "website": "https://pepegardener.es/",
+        "emails": null
+    },
+    {
+        "name": "JARDINERIA C'AN PERET",
+        "rating": "(58)",
+        "address": "158, Ma-4012, 07691 Santanyí, Illes Balears, Spain",
+        "phone": "+34 650 42 05 32 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Servilis",
+        "rating": "(26)",
+        "address": "Avinguda del Císter, 9, Local 1, Nord, 07010 Palma, Illes Balears, Spain",
+        "phone": "+34 649 60 49 63 ",
+        "website": "http://www.servilis.com/",
+        "emails": null
+    },
+    {
+        "name": "Adrián Adell Paisajismo y Jardineria",
+        "rating": null,
+        "address": "Av. de les Roses, 2, 07193 Mallorca, Illes Balears, Spain",
+        "phone": "+34 647 02 21 70 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Benfet Serveis i manteniment",
+        "rating": "(10)",
+        "address": "Carrer Projecte Home, bajos, Levante, 07007 Palma, Balearic Islands, Spain",
+        "phone": "+34 608 25 32 11 ",
+        "website": "http://benfetserveis.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardinería Mallorca Detallverd",
+        "rating": "(12)",
+        "address": "Carrer des Vent, 07250 Vilafranca de Bonany, Illes Balears, Spain",
+        "phone": "+34 657 77 14 26 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardineria Ànima Verda",
+        "rating": "(45)",
+        "address": "Carrer Marroig, Nave 25 Polígono Son Noguera, 07620 Llucmajor, Spain",
+        "phone": "+34 971 66 25 21 ",
+        "website": "https://www.animaverda.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria y forestaciones mallorquinas SL",
+        "rating": "(30)",
+        "address": "Finca S'Hort Nou-Ctra 3020 km 8, 07143 Biniali, Illes Balears, Spain",
+        "phone": "+34 610 78 33 66 ",
+        "website": "http://www.arbolesdemallorca.com/",
+        "emails": null
+    },
+    {
+        "name": "S’ESTEPA JARDINERIA INTEGRAL, SL",
+        "rating": "(10)",
+        "address": "Carrer dels Menestrals, 5, 07300 Inca, Balearic Islands, Spain",
+        "phone": "+34 630 96 76 54 ",
+        "website": "http://design.sestepa.com/",
+        "emails": null
+    },
+
+    {
+        "name": "Viveros Manrique",
+        "rating": "(103)",
+        "address": "Carrer de Can Nofre Serra, 10, Llevant, 07007 Palma, Illes Balears, Spain",
+        "phone": "+34 971 25 76 77 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardines Alfredo Martín",
+        "rating": null,
+        "address": "Carrer del Pare Guillem Caselles, 8, Platja de Palma, 07007 Palma, Illes Balears, Spain",
+        "phone": "+34 971 27 99 88 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Mundo Jardines",
+        "rating": null,
+        "address": null,
+        "phone": "+34 699 93 11 26 ",
+        "website": "https://m.facebook.com/mundojardines.es/",
+        "emails": null
+    },
+    {
+        "name": "Sánchez Jardins",
+        "rating": "(16)",
+        "address": "C/ Canto den massana, S/N, 07200 Felanitx (Mallorca), Spain",
+        "phone": "+34 639 90 07 06 ",
+        "website": "http://sanchezjardins.com/",
+        "emails": null
+    },
+ 
+    {
+        "name": "🌴🌊Piscinas y Jardines Mallorca",
+        "rating": null,
+        "address": null,
+        "phone": "+34 645 48 42 92 ",
+        "website": "https://mantenimientopiscinasyjardinesmallorca.es/es",
+        "emails": null
+    },
+    {
+        "name": "MARTIN Servicios Jardineria",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 685 02 61 35 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "MURO JARDINS",
+        "rating": "(3)",
+        "address": null,
+        "phone": "+34 645 22 12 53 ",
+        "website": "https://www.facebook.com/murojardins/",
+        "emails": null
+    },
+    {
+        "name": "Jardines y Podas Toni Minero",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 626 04 41 04 ",
+        "website": "http://www.comerciosyservicios.com/jardinerosjardineriaparapodasverticalesenmallorca.htm",
+        "emails": null
+    },
+    {
+        "name": "GreeNature2020",
+        "rating": "(4)",
+        "address": "Carrer de Galdent, 55D, 07620 Llucmajor, Illes Balears, Spain",
+        "phone": "+34 672 72 12 70 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Vida Garden",
+        "rating": "(2)",
+        "address": "Carrer s'Alzina, 9, 07193 Sa Coma, Balearic Islands, Spain",
+        "phone": "+34 618 62 45 76 ",
+        "website": "http://vidagardenmallorca.es/",
+        "emails": null
+    },
+    {
+        "name": "Hafid FARFACHE",
+        "rating": null,
+        "address": "Carrer del Mestre Gomila, 36, 07630 Campos, Illes Balears, Spain",
+        "phone": "+34 642 21 28 16 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "J&J Jardins",
+        "rating": null,
+        "address": "Gran Via Colom, 25, 07300 Inca, Illes Balears, Spain",
+        "phone": "+34 606 84 73 22 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Art Nature Group",
+        "rating": null,
+        "address": "Carrer de les Parellades, 10, Centre, 07003 Palma, Illes Balears, Spain",
+        "phone": "+34 621 14 52 05 ",
+        "website": "http://www.artnaturegroup.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineria Amor",
+        "rating": "(8)",
+        "address": "Cami de sa Marina Gran, 364, 07640, Illes Balears, Spain",
+        "phone": "+34 650 27 33 81 ",
+        "website": "http://jardineriaamor.es/",
+        "emails": null
+    },
+
+    {
+        "name": "Boehm & Partner Mallorca",
+        "rating": "(6)",
+        "address": "Via les Illes Balears, 150, 07688 Cala Murada, Illes Balears, Spain",
+        "phone": "+34 621 19 84 46 ",
+        "website": "http://www.mnboehm-partner.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16147364911958378735",
+        "emails": null
+    },    
+    {
+        "name": "Vinagrella Jardins",
+        "rating": "(25)",
+        "address": "Cami de Can Duran, 12, Platja de Palma, 07600 Ses Cadenes, Illes Balears, Spain",
+        "phone": "+34 971 44 63 52 ",
+        "website": "http://www.vinagrella.com/",
+        "emails": null
+    },    
+    {
+        "name": "JFSMultiservice",
+        "rating": null,
+        "address": "Cami d´es, Cami dels Braçals, Balearic Islands, Spain",
+        "phone": "+34 622 58 77 88 ",
+        "website": null,
+        "emails": null
+    },    
+    {
+        "name": "GardenStore",
+        "rating": "(31)",
+        "address": "Carrer Ca Na Vinagre, 5, Llevant, 07007 Palma, Illes Balears, Spain",
+        "phone": "+34 971 07 89 85 ",
+        "website": "https://mallorca.gardenstore.es/",
+        "emails": null
+    },
+    {
+        "name": "GARMIM",
+        "rating": null,
+        "address": "Carrer del Crèdit Balear, 10, nave 3, Levante, 07008 Palma, Balearic Islands, Spain",
+        "phone": "+34 971 70 10 93 ",
+        "website": null,
+        "emails": null
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Jarest",
+        "rating": null,
+        "address": "C. D, 12, 42005 Soria, Spain",
+        "phone": "+34 625 68 15 85 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Mis Plantas",
+        "rating": "(8)",
+        "address": "Nº, Calle F, 3, 42005 Soria, Spain",
+        "phone": "+34 975 21 21 25 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Ingeniería Bosques y Jardines",
+        "rating": null,
+        "address": "C. Betetas, 14, 42002 Soria, Spain",
+        "phone": "+34 606 88 90 56 ",
+        "website": "http://www.ingenieriabosquesyjardines.com/",
+        "emails": null
+    },
+    {
+        "name": "Forestal y Jardin Dansyl",
+        "rating": "(22)",
+        "address": "Calle B, Parc R75, 42005 Soria, Spain",
+        "phone": "+34 975 12 07 58 ",
+        "website": "https://dansyl.es/",
+        "emails": null
+    },
+    {
+        "name": "Entre Flores y Plantas",
+        "rating": "(67)",
+        "address": "Polígono Industrial las Casas, Calle E parcela R125, 42005 Soria, Spain",
+        "phone": "+34 630 68 09 05 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "TECMADEPOR",
+        "rating": null,
+        "address": "Polígono Industrial Valcorba, Nave Nido 1, 42005 Soria, Spain",
+        "phone": "+34 629 21 38 00 ",
+        "website": "https://tecmadepor.com/",
+        "emails": null
+    },
+    {
+        "name": "JARDINERIA LOPEZ",
+        "rating": "(2)",
+        "address": "C. Real, 30, 42167 Portelárbol, Soria, Spain",
+        "phone": "+34 639 33 34 31 ",
+        "website": "https://jardinerialopezsoria.com/",
+        "emails": null
+    },
+    {
+        "name": "OCIO, JARDÍN Y BOSQUE-REPUESTOS AVELINO",
+        "rating": "(24)",
+        "address": "Calle C, C. B, 226, 42005 Las Casas, Soria, Spain",
+        "phone": "+34 975 21 10 95 ",
+        "website": "http://ojarbo.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardinería Alcaraván. Raúl Ruiz",
+        "rating": "(12)",
+        "address": "Calle Iglesia, 3, 42162 Pedraza, Soria, Spain",
+        "phone": "+34 630 93 36 04 ",
+        "website": "http://www.jardineriaymanitas.com/",
+        "emails": null
+    }
+]

@@ -118,9 +118,10 @@ const scrapeBusinesses = async (city,businessType) => {
                             await nameElement.evaluate(el => el.scrollIntoView({ behavior: 'auto', block: 'center', inline: 'center' }));
                             await nameElement.click();
                         }
-
-                        await sleep(3000)
                         
+                            await sleep(3000)
+
+
                         const businessDataDiv = await page.waitForSelector('.bJzME.Hu9e2e.tTVLSc .m6QErb.DxyBCb.kA9KIf.dS8AEf.XiKgde', { timeout: 10000 }).catch(() => console.log('Detail container not found, continuing...'));
 
                         if (businessDataDiv) {                            
@@ -161,9 +162,8 @@ const scrapeBusinesses = async (city,businessType) => {
                                     closeBtn.click();
                                 }
                             });
-
-                            // await new Promise(resolve => setTimeout(resolve, 2000));
                             await sleep(3000)
+                            // await new Promise(resolve => setTimeout(resolve, 2000));
                         }
                     }
                 } catch (error) {

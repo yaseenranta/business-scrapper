@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Jardinería Gueco",
+        "rating": "(21)",
+        "address": "Rúa Xeneral Gutiérrez Mellado, 17, 36001 Pontevedra, Spain",
+        "phone": "+34 665 83 63 14 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Xardineria Poio",
+        "rating": "(10)",
+        "address": null,
+        "phone": "+34 676 60 36 00 ",
+        "website": "https://www.xardineriapoio.es/",
+        "emails": null
+    },
+    {
+        "name": "Jardinero San Blas",
+        "rating": null,
+        "address": "Rúa de San Brais, 101, 36143 Pontevedra, Spain",
+        "phone": "+34 665 83 63 14 ",
+        "website": "https://jardinerospontevedra.com/",
+        "emails": null
+    },
+    {
+        "name": "Eco Limpieza y Jardín Luber",
+        "rating": "(4)",
+        "address": "O Rozo, 10, 36003 Pontevedra, Spain",
+        "phone": "+34 619 27 92 49 ",
+        "website": "https://www.jardinesylimpiezasluber.es/es/",
+        "emails": null
+    },
+    {
+        "name": "DALANYO xardineria",
+        "rating": "(14)",
+        "address": "Novas 27 Portela, 36677 Cuntis, Pontevedra, Spain",
+        "phone": "+34 605 28 63 29 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "porto multiservicios",
+        "rating": "(41)",
+        "address": "Av. Matosinhos, 14, 36600 Vilagarcía de Arousa, Pontevedra, Spain",
+        "phone": "+34 644 03 83 98 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Paraíso Jardinería y Servicios",
+        "rating": "(3)",
+        "address": "C/ Casal Nantes Nº4, 36969, Pontevedra, Spain",
+        "phone": "+34 687 31 74 63 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "A nosa planta",
+        "rating": "(87)",
+        "address": "Cabanas, 29 A, 36142 Salcedo, Pontevedra, Spain",
+        "phone": "+34 986 85 63 91 ",
+        "website": "https://www.viverosanosaplanta.es/",
+        "emails": null
+    },
+    {
+        "name": "frama jardineros",
+        "rating": null,
+        "address": "Rúa Doutor Loureiro Crespo, 5, 36004 Pontevedra, Spain",
+        "phone": "+34 637 72 92 78 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "dp mantenimiento de jardines",
+        "rating": "(5)",
+        "address": "36990 Rozavella, Pontevedra, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    }
+]

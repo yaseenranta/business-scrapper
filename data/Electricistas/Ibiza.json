@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Electricidad Ibiza",
+        "rating": "(20)",
+        "address": "C/ Atenas, Av. de Sant Jordi, 30, 07817 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 692 51 63 59 ",
+        "website": "https://electricidadibiza.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Urgencias Ibiza",
+        "rating": "(30)",
+        "address": "Carrer del País Basc, 5, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 662 62 08 01 ",
+        "website": "https://www.elvikingomanitas.com/",
+        "emails": null
+    },
+    {
+        "name": "COSTA ELECTRICIDAD Instalaciones Electricas",
+        "rating": "(10)",
+        "address": "avenida san jordi, Carrer de Font I Quer, 07800 Ibiza, Spain",
+        "phone": "+34 619 50 44 79 ",
+        "website": "http://www.costaelectricidad.com/",
+        "emails": null
+    },
+    {
+        "name": "Medori Electricidad S.L.",
+        "rating": "(34)",
+        "address": "Edificio Los Girasoles, Av. 8 d'Agost, 2, Local 1 A/B, 07800 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 971 31 77 71 ",
+        "website": "http://www.medorielectricidad.net/",
+        "emails": null
+    },
+    {
+        "name": "East 4 Electrical",
+        "rating": "(10)",
+        "address": "Carrer Mont Blanc, 2, 07849 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 672 96 13 97 ",
+        "website": "https://www.east4electrical.co.uk/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Ona",
+        "rating": "(4)",
+        "address": "Carrer Es Caló, Camí de la Bassa, 18, 07829 Eivissa, Balearic Islands, Spain",
+        "phone": "+34 652 17 89 73 ",
+        "website": "https://www.electricidadonaibiza.com/",
+        "emails": null
+    },
+    {
+        "name": "César Negre Electricista",
+        "rating": "(8)",
+        "address": "Carrer Pablo Picasso, 24 1, 1, 07800 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 696 36 25 44 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "ELECTRO FRANCISCO H. MARINE, SL",
+        "rating": "(12)",
+        "address": "PASSEIG JUAN CARLOS I PUERTO DEPORTIVO MARINA, BOTAFOCH., 07800 Ibiza, Spain",
+        "phone": "+34 971 31 38 54 ",
+        "website": "http://www.electrofrancisco.com/",
+        "emails": null
+    },
+    {
+        "name": "Ibielectric & Ibiclimafred",
+        "rating": "(6)",
+        "address": "Carrer Germans Torres i Tur, 9, 2º derecha, 07800 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 971 39 12 29 ",
+        "website": "http://ibielectric.com/",
+        "emails": null
+    },
+    {
+        "name": "Gtec Ibiza Electricidad",
+        "rating": null,
+        "address": "Carrer Enric Fajarnés Cardona, 1, Escalera E, 07800 Cap Martinet, Balearic Islands, Spain",
+        "phone": "+34 697 63 60 92 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instal·lacions Ibidat S.L",
+        "rating": "(14)",
+        "address": "Av. Sant Agustí, 64, 07829 Sant Agustí des Vedrà, Illes Balears, Spain",
+        "phone": "+34 608 92 96 60 ",
+        "website": "https://instalacionesibidat.es/ibi/",
+        "emails": null
+    },
+    {
+        "name": "Ronas Electricidad",
+        "rating": null,
+        "address": "Carrer de Portinatx, 14, BAJO;LOCAL, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 971 19 37 37 ",
+        "website": "http://www.ronas-ibiza.com/",
+        "emails": null
+    },
+    {
+        "name": "Jaime Serra Instalaciones Eléctricas",
+        "rating": "(3)",
+        "address": "Casa Mamá - Can Vinyes, Ctra. Ibiza - San Antonio, Km 3, 3 (Local 5, 07819 Puig d'en Valls, Balearic Islands, Spain",
+        "phone": "+34 971 31 86 78 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Murillo",
+        "rating": "(9)",
+        "address": "Carrer des Jondal, 51, bajos, 07800 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 645 84 82 99 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "ELECTROCLIMA PORTMANY IBIZA - Punto de Servicio Endesa",
+        "rating": "(33)",
+        "address": "Carrer de València, 4B, 07820 Eivissa, Illes Balears, Spain",
+        "phone": "+34 971 80 41 22 ",
+        "website": "https://www.electroclimaportmany.com/",
+        "emails": null
+    },
+    {
+        "name": "BenTec Ibiza",
+        "rating": "(2)",
+        "address": "Avinguda de Cala Pada, 07840 Santa Eulària des Riu, Balearic Islands, Spain",
+        "phone": "+34 662 11 28 46 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Lux Ibiza",
+        "rating": "(37)",
+        "address": "Via Romana, 79, Bajo, 07800 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 971 30 10 67 ",
+        "website": "http://www.luxibiza.es/",
+        "emails": null
+    },
+    {
+        "name": "ART I LLUM S.L.",
+        "rating": "(6)",
+        "address": "Av. d'Abel Matutes Juan, 26, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 971 19 35 10 ",
+        "website": "http://artillum.es/",
+        "emails": null
+    },
+    {
+        "name": "José Ribas Ribas",
+        "rating": null,
+        "address": "Carrer de Sant Cristòfol, 24, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 971 19 96 31 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electro Francisco Ibiza",
+        "rating": null,
+        "address": "Carrer Botafoch, n.3, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 971 31 38 54 ",
+        "website": "https://www.electrofrancisco.com/ibiza/contacto/",
+        "emails": null
+    },
+    {
+        "name": "AG Instalaciones Eléctricas",
+        "rating": null,
+        "address": "C/ Campanitx 24 blo-2 esc-2 4º B, 07800 Ibiza Town, Spain",
+        "phone": "+34 665 90 87 21 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "IBICENCA DE INSTALACIONES E INGENIERIA",
+        "rating": "(3)",
+        "address": "Carrer de Múrcia, 16, Bajos, 07800 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 683 23 05 00 ",
+        "website": "https://ibicencadeinstalaciones.com/",
+        "emails": null
+    },
+    {
+        "name": "Can Trebol Ibiza · Fontanería | Electricidad | Gas",
+        "rating": "(9)",
+        "address": "Av. Pere Matutes Noguera, 63, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 609 62 89 78 ",
+        "website": "http://www.cantrebol.es/",
+        "emails": null
+    },
+    {
+        "name": "Ibiza Energías Alternativas, S.L.",
+        "rating": "(2)",
+        "address": "Carrer Germans Torres i Tur, 9, Bajo Izq, 07800 Ibiza, Balearic Islands, Spain",
+        "phone": "+34 971 39 12 29 ",
+        "website": "http://www.ibielectric.com/",
+        "emails": null
+    },
+    {
+        "name": "Smart Homes Ibiza",
+        "rating": "(4)",
+        "address": "Carrer de Sant Josep, 07840 Santa Eulària des Riu, Illes Balears, Spain",
+        "phone": "+34 627 88 38 62 ",
+        "website": "http://www.smarthomesibiza.com/",
+        "emails": null
+    },
+    {
+        "name": "Teltroson Ibiza S.L.",
+        "rating": "(4)",
+        "address": "Via Púnica, 37, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 971 30 42 21 ",
+        "website": "https://www.teltrosonibiza.com/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Julvi",
+        "rating": "(9)",
+        "address": "Carrer Riu Arno, 27, A, Polígono, 07800 Can Bufi, Illes Balears, Spain",
+        "phone": "+34 971 80 66 24 ",
+        "website": "http://www.instalacionesjulvi.com/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Ledgar, S.L.",
+        "rating": "(5)",
+        "address": "Camí Vell de Sant Mateu, 8, 07800 Eivissa, Illes Balears, Spain",
+        "phone": null,
+        "website": "https://ledgar.es/",
+        "emails": null
+    },
+    {
+        "name": "DOMOSH",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 692 35 93 94 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "B.o. Ibiza, S.l.",
+        "rating": null,
+        "address": "Avinguda d'Ignasi Wallis, 29, 07800 Eivissa, Illes Balears, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electroclima Portmany S.L. Endesa",
+        "rating": "(32)",
+        "address": "Carrer de València, 4, 07820 Sant Antoni de Portmany, Illes Balears, Spain",
+        "phone": "+34 971 80 41 22 ",
+        "website": "https://www.electroclimaportmany.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13192558886540064282",
+        "emails": null
+    },
+    {
+        "name": "Elektroma",
+        "rating": null,
+        "address": "Carrer de Cervantes, 15, 07820 Sant Antoni de Portmany, Illes Balears, Spain",
+        "phone": "+34 663 41 03 14 ",
+        "website": "http://www.elektroma.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Feraru",
+        "rating": null,
+        "address": "Carrer Francisco de Goya, 17, 07820 Sant Antoni de Portmany, Illes Balears, Spain",
+        "phone": null,
+        "website": "https://empresas.habitissimo.es/pro/electricidad-feraru",
+        "emails": null
+    },
+    {
+        "name": "DYD instalaciones",
+        "rating": "(12)",
+        "address": "Camí des Puig d'en Valls, 2, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 971 39 88 80 ",
+        "website": "https://www.dydinstalacion.com/es/",
+        "emails": null
+    },
+    {
+        "name": "Electro CB Arcadía II S.L",
+        "rating": "(3)",
+        "address": "Carrer del Llinquer, 7, local 3, 07819 Jesús, Balearic Islands, Spain",
+        "phone": "+34 971 30 10 66 ",
+        "website": "http://electrocb.es/",
+        "emails": null
+    },
+    {
+        "name": "Becker Ibiza",
+        "rating": null,
+        "address": "Carrer ses Semprevives, 14, 07840 Siesta, Illes Balears, Spain",
+        "phone": "+34 971 33 96 44 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Sirio Ibiza SL",
+        "rating": null,
+        "address": "Passeig de la Pau, 1, loc 3, 07840 Santa Eulalia del Río, Balearic Islands, Spain",
+        "phone": "+34 632 86 78 17 ",
+        "website": "https://www.siriosl.com/",
+        "emails": null
+    },
+    {
+        "name": "Instaladora Eléctrica Badi S.L.",
+        "rating": "(5)",
+        "address": "Carrer des Manyans, 27, 07800 Sant Rafel, Illes Balears, Spain",
+        "phone": "+34 971 34 54 14 ",
+        "website": "http://www.badi.es/",
+        "emails": null
+    },
+    {
+        "name": "Martin Electricidad S.L.",
+        "rating": "(2)",
+        "address": "Carrer des Daus, 36, 07850 Santa Eulària des Riu, Illes Balears, Spain",
+        "phone": "+34 613 93 35 66 ",
+        "website": "https://www.martin-electricidad.com/",
+        "emails": null
+    },
+    {
+        "name": "Technikibiza",
+        "rating": null,
+        "address": "Carrer de Morna, 5, 07800 Eivissa, Illes Balears, Spain",
+        "phone": "+34 685 99 32 88 ",
+        "website": "http://www.technikibiza.com/",
+        "emails": null
+    },
+    {
+        "name": "Ibiza Sparks",
+        "rating": null,
+        "address": "Carrer Johann Sebastian Bach, 19,3, B1, 07820 Sant Antoni de Portmany, Balearic Islands, Spain",
+        "phone": "+34 602 47 03 24 ",
+        "website": "https://ibizaspark.wixsite.com/ibizasparks",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Eléctricas Furnet",
+        "rating": null,
+        "address": "Avinguda Cap Martinet LOC 4 BIS, 07819 Nuestra Señora de Jesús, Illes Balears, Spain",
+        "phone": "+34 971 31 20 92 ",
+        "website": null,
+        "emails": null
+    }
+]

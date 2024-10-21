@@ -1,0 +1,98 @@
+[
+    {
+        "name": "ELECTRICISTA TOLEDO",
+        "rating": "(5)",
+        "address": "C. de la Diputación, 1, 45004 Toledo, Spain",
+        "phone": "+34 696 19 88 15 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricista Toledo",
+        "rating": "(11)",
+        "address": "C. Olivarejos, 3, 45523 Alcabón, Toledo, Spain",
+        "phone": "+34 696 51 85 16 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Casa Álvarez, S.A.",
+        "rating": "(5)",
+        "address": "Av. de Carlos III, 7, 45004 Toledo, Spain",
+        "phone": "+34 925 22 37 35 ",
+        "website": "https://www.electricistasentoledo.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricista autorizado UNOTECNICO",
+        "rating": "(55)",
+        "address": null,
+        "phone": "+34 629 35 51 99 ",
+        "website": "https://www.unotecnico.es/",
+        "emails": null
+    },
+    {
+        "name": "Ivan Arriero (Reparaciones Arriero)",
+        "rating": "(3)",
+        "address": null,
+        "phone": "+34 679 74 71 68 ",
+        "website": "https://reparacionesarriero5.webnode.es/",
+        "emails": null
+    },
+    {
+        "name": "Servi Toledo",
+        "rating": "(4)",
+        "address": "C. Colombia, 7, 45004 Toledo, Spain",
+        "phone": "+34 601 43 81 86 ",
+        "website": "https://www.servitoledo.com/",
+        "emails": null
+    },
+    {
+        "name": "Electricistas Toledo",
+        "rating": null,
+        "address": "C. Rio Gévalo, 4, 45007 Toledo, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Reparaciones Arriero",
+        "rating": "(5)",
+        "address": "C. San Eugenio, 8, 45003 Toledo, Spain",
+        "phone": "+34 679 74 71 68 ",
+        "website": "https://reparacionesarriero5.webnode.es/",
+        "emails": null
+    },
+    {
+        "name": "Edsg Energía Y Desarrollo Sostenible Guio",
+        "rating": "(9)",
+        "address": "Av. del Río Boladiez, 51, 45007 Toledo, Spain",
+        "phone": "+34 661 88 74 36 ",
+        "website": "http://www.energiaydesarrollosostenible.es/",
+        "emails": null
+    },
+    {
+        "name": "ST TOLEDO",
+        "rating": "(8)",
+        "address": "CM-4001a, 45008 Toledo, Spain",
+        "phone": null,
+        "website": "http://www.iberdrola.es/",
+        "emails": null
+    },
+    {
+        "name": "ABM",
+        "rating": "(4)",
+        "address": "C. Río Jarama, 15, 45007 Toledo, Spain",
+        "phone": "+34 925 24 11 04 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Telecomunicaciones System 2001 S L",
+        "rating": "(16)",
+        "address": "C. del Palacio de Galiana, 7, 45006 Toledo, Spain",
+        "phone": "+34 925 28 43 55 ",
+        "website": "http://www.telsys2001.com/",
+        "emails": null
+    }
+]

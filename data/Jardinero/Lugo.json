@@ -1,0 +1,106 @@
+[
+    {
+        "name": "JARDINERÍA BELLASOMBRA",
+        "rating": "(3)",
+        "address": "Rúa Lamas de Prado, 27004 Lugo, Spain",
+        "phone": "+34 650 03 32 41 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Nuevos Jardines diseño y paisajismo",
+        "rating": "(66)",
+        "address": "N-VI, 640, 27191 Lugo, Spain",
+        "phone": "+34 982 30 35 05 ",
+        "website": "https://www.nuevosjardines.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardineros Lugo",
+        "rating": null,
+        "address": "Rúa Río Lor, 38, 27004 Lugo, Spain",
+        "phone": "+34 982 68 52 20 ",
+        "website": "https://jardineroslugo.com/",
+        "emails": null
+    },
+    {
+        "name": "Landelar - Diseño de espacios verdes",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 676 72 35 97 ",
+        "website": "http://www.landelar.com/",
+        "emails": null
+    },
+    {
+        "name": "DECOGARDEN JARDINERIA",
+        "rating": "(7)",
+        "address": "Castelo de Arriba, 1, 27190 Lugo, Spain",
+        "phone": "+34 619 87 01 42 ",
+        "website": "http://www.decogardenjardineria.com/",
+        "emails": null
+    },
+    {
+        "name": "Cercis Jardinería",
+        "rating": null,
+        "address": "Rua Outeiro, 33, 27141 Romeán, Lugo, Spain",
+        "phone": "+34 615 50 07 46 ",
+        "website": "http://www.cercis.wixsite.com/cercisjardineria",
+        "emails": null
+    },
+    {
+        "name": "Tu Jardín",
+        "rating": "(177)",
+        "address": "Avenida Friol, km 0 , 300 ( Arieras), 27004 Lugo, Spain",
+        "phone": "+34 982 22 14 38 ",
+        "website": "https://tujardinlugo.com/",
+        "emails": null
+    },
+    {
+        "name": "Medioambiente E Xardineria Lucense",
+        "rating": null,
+        "address": "Lugar PAREDES, San Fiz, 3, 27002 Muxa, Lugo, Spain",
+        "phone": "+34 676 91 92 77 ",
+        "website": "http://www.medioambienteexardinerialucense.com/",
+        "emails": null
+    },
+    {
+        "name": "Jardinero en vilalba (jardinería Barja)",
+        "rating": "(2)",
+        "address": "Calle, Rúa Pepe Apenela, N°42, 3°A, 27800, Lugo, Spain",
+        "phone": "+34 625 33 74 87 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardines Viveiro",
+        "rating": "(4)",
+        "address": "Sobrado, 6, 27866 San Pedro de Viveiro, Spain",
+        "phone": "+34 647 24 20 60 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Víctor Rodríguez Jardinería y desbroces",
+        "rating": "(4)",
+        "address": "Camiño da Lousada, 17, 27789 Fazouro, Lugo, Spain",
+        "phone": "+34 671 72 50 11 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardines Nuñez Herbon",
+        "rating": null,
+        "address": "Rúa Otero Pedrayo, n 22, entlo g, 27003 Lugo, Spain",
+        "phone": "+34 698 93 46 56 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jardinería López y Arias",
+        "rating": null,
+        "address": "Rúa Camiño Real, 55, 27004 Lugo, Spain",
+        "phone": "+34 982 24 38 94 ",
+        "website": null,
+        "emails": null
+    }
+]

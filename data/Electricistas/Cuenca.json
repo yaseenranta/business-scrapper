@@ -1,0 +1,322 @@
+[
+    {
+        "name": "T&B Soluciones Eléctricas",
+        "rating": "(13)",
+        "address": "AV. DE LAS AMERICAS ENTRE ANTILLAS, Y, Cuenca, Ecuador",
+        "phone": "+593 98 300 4280 ",
+        "website": "https://www.edina.com.ec/16420/1/322/franco-torres-orellana/electricidad-instalaciones-electricidad-servicios-y-suministros",
+        "emails": null
+    },
+    {
+        "name": "Electro Instalaciones",
+        "rating": "(29)",
+        "address": "Manuel Vega 7-50, Cuenca 010101, Ecuador",
+        "phone": "+593 7-283-8999 ",
+        "website": "http://www.electroinstalaciones.com.ec/",
+        "emails": null
+    },
+    {
+        "name": "Electro Cuenca",
+        "rating": "(4)",
+        "address": "Poligono Industrial Los Palancares, 12, 16004 Cuenca, Spain",
+        "phone": "+34 969 21 28 05 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Eléctricas HERRÁIZ | Mantenimiento eléctrico e Instalaciones",
+        "rating": "(4)",
+        "address": "C. Cristóbal Halffter, nº 15, 16004 Cuenca, Spain",
+        "phone": "+34 647 34 36 21 ",
+        "website": "https://instalacioneselectricasherraiz.es/",
+        "emails": null
+    },
+    {
+        "name": "Amperio Soluciones Electricas",
+        "rating": "(9)",
+        "address": "Av. Ricardo Durán, Cuenca, Ecuador",
+        "phone": "+593 99 173 9816 ",
+        "website": "https://www.facebook.com/amperiosoluciones",
+        "emails": null
+    },
+    {
+        "name": "ELECTROING",
+        "rating": "(12)",
+        "address": "Antonio Lloret Bastidas 4-82, Cuenca 010206, Ecuador",
+        "phone": "+593 98 451 0753 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Inelectry, Cuenca, Electricidad y Electronica",
+        "rating": null,
+        "address": "De la Bocina 285, Cuenca, Ecuador",
+        "phone": "+593 99 564 9515 ",
+        "website": "https://bit.ly/InelectryLanding",
+        "emails": null
+    },
+    {
+        "name": "Electricidad Valladolid S.L.U.",
+        "rating": "(23)",
+        "address": "C. Clara Campoamor, 2, 16003 Cuenca, Spain",
+        "phone": "+34 969 23 13 69 ",
+        "website": "http://www.electricidadvalladolid.es/",
+        "emails": null
+    },
+    {
+        "name": "Electro Sánchez",
+        "rating": "(5)",
+        "address": "Antonio Ricaurte 801, Cuenca, Ecuador",
+        "phone": "+593 98 136 3074 ",
+        "website": "https://www.facebook.com/Electro.Sanchez.Cuenca",
+        "emails": null
+    },
+    {
+        "name": "Domótica Cuenca Kaltronics",
+        "rating": "(27)",
+        "address": "Calle:, Cuenca 010107, Ecuador",
+        "phone": "+593 99 644 7362 ",
+        "website": "https://kaltronics.my.canva.site/",
+        "emails": null
+    },
+    {
+        "name": "Sertecvega Multiservicios",
+        "rating": "(2)",
+        "address": "Av. Carlos Arízaga Vega 5-101, Cuenca 010207, Ecuador",
+        "phone": "+593 99 592 5456 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "MAX PRO",
+        "rating": "(3)",
+        "address": "C. del Perejil, Cuenca, Ecuador",
+        "phone": "+593 99 110 0201 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Hugo Carralero",
+        "rating": "(4)",
+        "address": "Travesia Av. Cruz Roja Española, 8, NAVE 21, 16002 Cuenca, Spain",
+        "phone": "+34 969 21 15 15 ",
+        "website": "https://www.electricidadhugocarralero.es/",
+        "emails": null
+    },
+    {
+        "name": "BEC CONSTRUCCIONES ELÉCTRICAS",
+        "rating": "(2)",
+        "address": "Manuel Arturo Cisneros 2-12, Cuenca, Ecuador",
+        "phone": "+593 96 305 1604 ",
+        "website": "https://sites.google.com/view/bec-electrico",
+        "emails": null
+    },
+    {
+        "name": "Nestor",
+        "rating": null,
+        "address": "4W7X+X78, Av Ordóñez Lasso, Cuenca, Ecuador",
+        "phone": "+593 98 101 0462 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricistas Cuenca",
+        "rating": null,
+        "address": "Calle Dr. Galíndez, 3, 2b, 16001 Cuenca, Spain",
+        "phone": "+34 687 82 75 46 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Ei Ingeniería Eléctrica",
+        "rating": null,
+        "address": "Miguel Cordero Dávila 2-32 y, Cuenca 010204, Ecuador",
+        "phone": "+593 99 282 9629 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electric Center",
+        "rating": null,
+        "address": "Cuenca, Ecuador",
+        "phone": "+593 96 272 6957 ",
+        "website": "https://electriccenter2016.wixsite.com/electriccenter",
+        "emails": null
+    },
+    {
+        "name": "ELECAP EC",
+        "rating": null,
+        "address": "Presidente Borrero 1583, Cuenca, Ecuador",
+        "phone": "+593 99 232 1916 ",
+        "website": "https://www.facebook.com/ElecapEc/",
+        "emails": null
+    },
+    {
+        "name": "Antonio Cejalvo Higueras",
+        "rating": null,
+        "address": "Rda. Manantial, 5, 16002 Cuenca, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Magneto Electricidad",
+        "rating": "(19)",
+        "address": "C. Portadas Falsas, 37, 16630 Mota del Cuervo, Cuenca, Spain",
+        "phone": "+34 677 31 45 05 ",
+        "website": "http://www.facebook.com/electricidad.magneto",
+        "emails": null
+    },
+    {
+        "name": "Imesa Servicios",
+        "rating": "(10)",
+        "address": "Calle Dr. Galíndez, 3, 2º B, 16001 Cuenca, Spain",
+        "phone": "+34 969 69 31 18 ",
+        "website": "http://www.imesaservicios.es/",
+        "emails": null
+    },
+    {
+        "name": "Isaías Juan Pérez",
+        "rating": "(5)",
+        "address": "Calle Codo, 9, 16850 Cañaveras, Cuenca, Spain",
+        "phone": "+34 969 27 60 98 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Asociación Provincial de Instaladores Electricistas de Cuenca",
+        "rating": null,
+        "address": "C. de Colón, 43, 16002 Cuenca, Spain",
+        "phone": "+34 969 22 43 54 ",
+        "website": "http://apiec.es/",
+        "emails": null
+    },
+    {
+        "name": "Instal Corp",
+        "rating": null,
+        "address": "Av. Hurtado de Mendoza 2117, Cuenca, Ecuador",
+        "phone": "+593 93 950 6778 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electro Sistemas",
+        "rating": null,
+        "address": "42VH+JW6, ricaurte, Cuenca 010108, Ecuador",
+        "phone": "+593 96 787 7239 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Soluciones EléCtricas Iluminar",
+        "rating": null,
+        "address": "32R4+RGW, Av. Pa. de los Cañaris, Cuenca, Ecuador",
+        "phone": "+593 99 292 4082 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Gasfiteria el Máster",
+        "rating": "(2)",
+        "address": "4243+C6P, Federico Guerrero, Cuenca, Ecuador",
+        "phone": "+593 99 326 7988 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "2010 Electrónica",
+        "rating": "(2)",
+        "address": "C. Segóbriga, 4, 16001 Cuenca, Spain",
+        "phone": "+34 969 23 00 31 ",
+        "website": "http://www.2010electronica.es/",
+        "emails": null
+    },
+    {
+        "name": "Francisco Cañas Instalaciones Eléctricas",
+        "rating": "(4)",
+        "address": "C. Verdolin, 9, 16193 Fuentes, Cuenca, Spain",
+        "phone": "+34 659 45 09 08 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Smart House EC",
+        "rating": "(2)",
+        "address": "Unidad Nacional 4-49 Y, Cuenca 010150, Ecuador",
+        "phone": "+593 96 853 8563 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Ayala Electricidad",
+        "rating": "(2)",
+        "address": "C. Nueva, 7, 16780 Altarejos, Cuenca, Spain",
+        "phone": "+34 679 97 91 39 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Escamilla",
+        "rating": null,
+        "address": "16235, Cuenca, Spain",
+        "phone": "+34 967 49 10 10 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Indeca",
+        "rating": "(40)",
+        "address": "Pol. Ind. La Cerrajera, C. Bodegueros, 6, 16003 Cuenca, Spain",
+        "phone": "+34 969 21 44 69 ",
+        "website": "https://www.indecasl.com/",
+        "emails": null
+    },
+    {
+        "name": "Mega Servicios Quito",
+        "rating": null,
+        "address": "4X33+7PH, Vía a San Joaquín, S/N, San Joaquín, Azuay, Cuenca 010116, Ecuador",
+        "phone": "+593 7-409-4103 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Hidroluz",
+        "rating": null,
+        "address": "José Santos Chocano S/N, Cuenca 010209, Ecuador",
+        "phone": "+593 7-286-4227 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Energlob Custom Led Import J & P",
+        "rating": "(4)",
+        "address": "4269+3JQ, Cajas, Cuenca 010103, Ecuador",
+        "phone": "+593 98 650 0498 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "eyiroo",
+        "rating": null,
+        "address": "Racar Plaza, Cuenca 010219, Ecuador",
+        "phone": "+593 98 818 9017 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Serjaelectric",
+        "rating": null,
+        "address": "Vargas Machuca 11-26, Cuenca 010101, Ecuador",
+        "phone": "+593 98 866 3315 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Majoca Electricidad S L",
+        "rating": "(3)",
+        "address": "C. Zapatería, 3, 16400 Tarancón, Cuenca, Spain",
+        "phone": "+34 969 32 13 70 ",
+        "website": null,
+        "emails": null
+    }
+]

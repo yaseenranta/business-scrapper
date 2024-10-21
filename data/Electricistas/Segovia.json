@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Castelló y Hernando S.L.",
+        "rating": null,
+        "address": "C. los Deportes, 16, 40004 Segovia, Spain",
+        "phone": "+34 921 43 33 05 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Tecnoservicio Sange S L",
+        "rating": "(18)",
+        "address": "C. Navacerrada, 12, 40006 Segovia, Spain",
+        "phone": "+34 921 43 58 20 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "ECOFELUS - INS. ELEC. FELUS S.L. “GLS Parcelshop”",
+        "rating": "(6)",
+        "address": "C. Teniente Ochoa, 15, 40002 Segovia, Spain",
+        "phone": "+34 921 46 22 75 ",
+        "website": "https://www.ecofelus.es/",
+        "emails": null
+    },
+    {
+        "name": "Alonso Segovia Electricidad S. L.",
+        "rating": "(11)",
+        "address": "Ctra. Segovia, 7, 40194 Tabanera del Monte, Segovia, Spain",
+        "phone": "+34 660 98 77 77 ",
+        "website": "http://www.alonsosegoviaelectricidad.es/",
+        "emails": null
+    },
+    {
+        "name": "Suministros Eléctricos ESSAN",
+        "rating": "(40)",
+        "address": "C. Somosierra, 4, 40006 Segovia, Spain",
+        "phone": "+34 921 42 71 61 ",
+        "website": "https://www.essan.es/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Eléctricas NIE-SAN",
+        "rating": "(4)",
+        "address": "Carr. de Villacastín, Nº 18, 3º L, 40006 Segovia, Spain",
+        "phone": "+34 629 11 16 40 ",
+        "website": "http://www.niesan.es/",
+        "emails": null
+    },
+    {
+        "name": "Redes Segovia",
+        "rating": null,
+        "address": "Av. Acueducto, 28, 40002 Segovia, Spain",
+        "phone": "+34 921 43 99 41 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Tecnolec",
+        "rating": null,
+        "address": "C. Goya, 15, 40005 Segovia, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Jerluz Instalaciones, C.B.",
+        "rating": "(3)",
+        "address": "Tr.ª San Antonio el Real, 5, 40004 Segovia, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Asociación Autónoma de Instaladores Electricistas Segovia y Provincia",
+        "rating": "(5)",
+        "address": "C. Valencia, 1, 40004 Segovia, Spain",
+        "phone": "+34 921 42 52 92 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "SHEMAR ELECTRICIDAD SL",
+        "rating": "(3)",
+        "address": "C. los Gremios del Cuero, 14, P.I, 40195 Hontoria, Segovia, Spain",
+        "phone": "+34 921 04 20 26 ",
+        "website": "http://www.shemarelectricidad.com/",
+        "emails": null
+    },
+    {
+        "name": "MONTAJES ELÉCTRICOS LUMAR",
+        "rating": "(8)",
+        "address": "Cam. de Trescasas, 9, 40196 La Lastrilla, Segovia, Spain",
+        "phone": "+34 921 43 65 21 ",
+        "website": "http://www.lumar.es/",
+        "emails": null
+    },
+    {
+        "name": "Electrónica Hernando,S.L.",
+        "rating": "(6)",
+        "address": "C. los Curtidores, 8, 40002 Segovia, Spain",
+        "phone": "+34 921 43 18 55 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Reformas y reparaciones Nova int.",
+        "rating": "(54)",
+        "address": "P.º Conde de Sepúlveda, 59, 40006 Segovia, Spain",
+        "phone": "+34 622 24 93 89 ",
+        "website": "https://reformasnova.com/",
+        "emails": null
+    },
+    {
+        "name": "MAVE Instalaciones Eléctricas SL",
+        "rating": null,
+        "address": "C/ Gremio del Cuero s/n Parc. 98 A - Pol. Ind, 40195 Hontoria, Segovia, Spain",
+        "phone": "+34 717 79 61 01 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Galgar",
+        "rating": "(22)",
+        "address": "C. Gremio de los Caldereros, 5, POL INDUSTRIAL, 40195 Hontoria, Segovia, Spain",
+        "phone": "+34 921 43 83 31 ",
+        "website": "http://www.galgar.es/",
+        "emails": null
+    },
+    {
+        "name": "Electricidad electrored",
+        "rating": "(2)",
+        "address": null,
+        "phone": "+34 659 15 15 35 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Emilio Llamas Alique",
+        "rating": null,
+        "address": "Ctra. Trescasas, 49, 40003 Segovia, Spain",
+        "phone": "+34 921 42 88 19 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electricidad Ruiz",
+        "rating": "(14)",
+        "address": "C. Juan Bravo, 3, 40001 Segovia, Spain",
+        "phone": "+34 921 46 35 73 ",
+        "website": "https://www.electricidad-ruiz.es/",
+        "emails": null
+    },
+    {
+        "name": "Cobra Instalaciones Y Servicios S A",
+        "rating": "(24)",
+        "address": "C. Gremio de los Caldereros, 12, 40195 Segovia, Spain",
+        "phone": "+34 921 44 33 30 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Leriluz",
+        "rating": "(3)",
+        "address": "C. San Cristóbal, 26, 40003 Segovia, Spain",
+        "phone": "+34 611 63 23 32 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Valentín Barahona Alonso",
+        "rating": null,
+        "address": "Av. Vía Roma, 24, 40003 Segovia, Spain",
+        "phone": "+34 921 43 77 12 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Barreno Electricidad",
+        "rating": null,
+        "address": "Av. Acueducto, 29, 40002 Segovia, Spain",
+        "phone": "+34 921 42 95 19 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Trelec",
+        "rating": "(3)",
+        "address": "Calle Gremio De Los Caldereros, 36 Polígono Ind De Hontoria, 40195 Hontoria, Segovia, Spain",
+        "phone": "+34 921 43 48 76 ",
+        "website": "http://www.trelec.es/",
+        "emails": null
+    },
+    {
+        "name": "Unión Digital Telecomunicaciones",
+        "rating": "(9)",
+        "address": "C. de San Antón, 3, 40005 Segovia, Spain",
+        "phone": "+34 921 10 18 00 ",
+        "website": "http://www.uniondigital.es/",
+        "emails": null
+    },
+    {
+        "name": "JGallegoElectricidad",
+        "rating": null,
+        "address": "C. Nueva, 12, 2ºC, 40194 Tabanera del Monte, Segovia, Spain",
+        "phone": "+34 660 04 02 84 ",
+        "website": "http://jgallegoelectricidad.es/",
+        "emails": null
+    },
+    {
+        "name": "GINPE Instalaciones y Proyectos Electricos",
+        "rating": null,
+        "address": "40003 Segovia, Spain",
+        "phone": null,
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "TEYCOR",
+        "rating": null,
+        "address": "Cam. Valseca, 19, 40196 La Lastrilla, Segovia, Spain",
+        "phone": "+34 921 08 01 81 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "JMA INSTALACIONES ELÉCTRICAS",
+        "rating": null,
+        "address": "Av. Segovia, 27B, 40195 Hontoria, Segovia, Spain",
+        "phone": "+34 921 44 71 51 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Eléctricas Nie San S L",
+        "rating": null,
+        "address": "Carr. de Villacastín, 3, 40195 Hontoria, Segovia, Spain",
+        "phone": "+34 629 11 16 40 ",
+        "website": "http://www.niesan.es/",
+        "emails": null
+    },
+    {
+        "name": "PPP Instalaciones Eléctricas",
+        "rating": null,
+        "address": "Cam. de Trescasas, 1, 40196 La Lastrilla, Segovia, Spain",
+        "phone": "+34 690 14 18 90 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Componentes eléctricos Lumar",
+        "rating": null,
+        "address": "Calle del Cristo del Mercado, 3, 40005 Segovia, Spain",
+        "phone": "+34 921 44 11 87 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Bene Rodao Lazaro",
+        "rating": "(3)",
+        "address": "C. de los Pinos, 4, 40194, Segovia, Spain",
+        "phone": "+34 649 82 58 10 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electrolineras Sostenibles",
+        "rating": "(4)",
+        "address": "Pl. de España, 6, 40100 Real Sitio de San Ildefonso, Segovia, Spain",
+        "phone": "+34 921 47 03 89 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Electrodo S.A.",
+        "rating": "(20)",
+        "address": "C. Enrique Larreta, 6, BAJO;P.I, 40006 EL CERRO, Segovia, Spain",
+        "phone": "+34 921 41 27 58 ",
+        "website": "http://www.electrodo.net/",
+        "emails": null
+    },
+    {
+        "name": "Luz y Gas en Segovia - Universo Digital Energía",
+        "rating": "(5)",
+        "address": "C. de José Zorrilla, 7, 40002 Segovia, Spain",
+        "phone": "+34 635 10 51 13 ",
+        "website": "https://www.udenergia.com/",
+        "emails": null
+    },
+    {
+        "name": "El Codo Instalaciones",
+        "rating": null,
+        "address": "Calle El, C. del Puente de la Muerte y de la Vida, 10, 5ºC, 40005 Segovia, Spain",
+        "phone": "+34 611 05 72 10 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "CONFENER",
+        "rating": "(6)",
+        "address": "C. los Alamos, 2, 40194 Trescasas, Segovia, Spain",
+        "phone": "+34 921 40 78 07 ",
+        "website": "https://confener.com/",
+        "emails": null
+    },
+    {
+        "name": "Calor Industrial",
+        "rating": "(5)",
+        "address": "C. Soldado Español, 20, BAJO, 40001 Segovia, Spain",
+        "phone": "+34 921 42 89 63 ",
+        "website": "http://www.calorindustrial.com/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Cotpe",
+        "rating": null,
+        "address": "C. de San Antón, 2, 40005 Segovia, Spain",
+        "phone": "+34 921 44 14 50 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Servicios Buxo",
+        "rating": "(17)",
+        "address": null,
+        "phone": "+34 643 13 61 14 ",
+        "website": "https://www.serviciosenverde.com/item/servicios-buxo/",
+        "emails": null
+    },
+    {
+        "name": "Ac Antenas S.L.",
+        "rating": "(3)",
+        "address": "Av. la Constitución, 32, 40005 Segovia, Spain",
+        "phone": "+34 921 43 11 67 ",
+        "website": "http://serviantena.es/",
+        "emails": null
+    }
+]
