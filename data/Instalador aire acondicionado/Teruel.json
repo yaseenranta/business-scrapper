@@ -1,0 +1,50 @@
+[
+    {
+        "name": "INSTALACIONES JUCAR",
+        "rating": "(35)",
+        "address": "Rda. de Ambeles, 34, 44001 Teruel, Spain",
+        "phone": "+34 640 15 99 12 ",
+        "website": "http://www.instalacionesjucar.es/",
+        "emails": null
+    },
+    {
+        "name": "Abril Soluciones",
+        "rating": "(61)",
+        "address": "Poligono La Paz, C/A Parc, 2, 44195 Teruel, Spain",
+        "phone": "+34 978 62 11 90 ",
+        "website": "https://www.abrilsoluciones.es/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones H2O",
+        "rating": null,
+        "address": "C. Ollerías del Calvario, 5, bajo, 44003 Teruel, Spain",
+        "phone": "+34 650 76 30 85 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "SEITE Mantenimientos",
+        "rating": "(21)",
+        "address": "Poligono los Hostales, Nave 20, 44195 Teruel, Spain",
+        "phone": "+34 978 03 06 08 ",
+        "website": "http://www.seitemantenimientos.es/",
+        "emails": null
+    },
+    {
+        "name": "josma s.l.",
+        "rating": null,
+        "address": "Polígono Industrial La Paz, C. Atenas, 3, 44195 Teruel, Spain",
+        "phone": "+34 978 62 10 47 ",
+        "website": "http://www.josmasl.com/",
+        "emails": null
+    },
+    {
+        "name": "Talleres y Electromontajes Eléctricos y Sistemas de Aire Acondicionado",
+        "rating": null,
+        "address": "C. Ollerías del Calvario, 49, 44193 Teruel, Spain",
+        "phone": "+34 978 61 84 90 ",
+        "website": null,
+        "emails": null
+    }
+]

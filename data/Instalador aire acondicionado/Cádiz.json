@@ -1,0 +1,50 @@
+[
+    {
+        "name": "NATURGY CÁDIZ, Centro ATT Cliente CESEM INSTALACIONES SL",
+        "rating": "(108)",
+        "address": "C. Cronos, 1, 11009 Cádiz, Spain",
+        "phone": "+34 956 03 90 98 ",
+        "website": "http://www.cesem.es/",
+        "emails": null
+    },
+    {
+        "name": "Andaluza De Instalaciones Termicas, S.A.",
+        "rating": "(7)",
+        "address": "Mlle. de Levante, 313 NAVE, 11006 Cádiz, Spain",
+        "phone": "+34 856 21 59 99 ",
+        "website": "http://www.aitsa.es/",
+        "emails": null
+    },
+    {
+        "name": "Electrogardi s.l.",
+        "rating": "(69)",
+        "address": "Av. Almirante León Herrero, 27, 11100 San Fernando, Cádiz, Spain",
+        "phone": null,
+        "website": "http://www.electrogardi.com/",
+        "emails": null
+    },
+    {
+        "name": "CLIMATIZACIONES POQUET",
+        "rating": "(129)",
+        "address": null,
+        "phone": "+34 651 15 55 98 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Fontaclima",
+        "rating": "(98)",
+        "address": "Brunete, 4, 11008 Cádiz, Spain",
+        "phone": "+34 956 01 86 00 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "FONTACLIMA 2012.S.L.",
+        "rating": "(22)",
+        "address": "C. los Barrios, 4, 11011 Cádiz, Spain",
+        "phone": "+34 856 07 36 25 ",
+        "website": null,
+        "emails": null
+    }
+]

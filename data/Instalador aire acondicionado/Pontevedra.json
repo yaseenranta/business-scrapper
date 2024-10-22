@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Laguardia & Moreira S.A.",
+        "rating": "(6)",
+        "address": "Av. de Vigo, 91, 36003 Pontevedra, Spain",
+        "phone": "+34 986 56 56 32 ",
+        "website": "http://www.laguardia-moreira.com/",
+        "emails": null
+    },
+    {
+        "name": "Sofriclima",
+        "rating": "(13)",
+        "address": "Rúa Manuel del Palacio, 5, BJ, 36003 Pontevedra, Spain",
+        "phone": "+34 609 53 70 96 ",
+        "website": "http://www.sofriclima.es/",
+        "emails": null
+    },
+    {
+        "name": "Riobó Consulting de Ingeniería e Instalaciones",
+        "rating": "(21)",
+        "address": "Rúa San Mauro, 53, 36004 Pontevedra, Spain",
+        "phone": "+34 986 84 65 54 ",
+        "website": "https://www.rioboconsulting.es/",
+        "emails": null
+    },
+    {
+        "name": "Bapesa",
+        "rating": "(90)",
+        "address": null,
+        "phone": "+34 647 93 97 02 ",
+        "website": "http://www.bapesa.gal/",
+        "emails": null
+    },
+    {
+        "name": "Ponteclima",
+        "rating": "(13)",
+        "address": "Rúa Gaiteiro Ricardo Portela, 10, 36003 Pontevedra, Spain",
+        "phone": "+34 629 25 16 26 ",
+        "website": "https://www.ponteclima.com/",
+        "emails": null
+    },
+    {
+        "name": "Indele",
+        "rating": "(16)",
+        "address": "Rúa Fernando II, 14, 36003 Pontevedra, Spain",
+        "phone": "+34 986 10 61 10 ",
+        "website": "http://www.indele.net/",
+        "emails": null
+    },
+    {
+        "name": "Intepo Climatización y Aire acondicionado",
+        "rating": "(9)",
+        "address": "Av. Marqués del Valterra, 79, 36910 Estribela, Pontevedra, Spain",
+        "phone": "+34 608 59 37 03 ",
+        "website": "http://www.intepo.es/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Sedefri, S. L.",
+        "rating": "(17)",
+        "address": "Estrada de, Chan das Pipas, 25, 36415 Redondela, Pontevedra, Spain",
+        "phone": "+34 986 06 48 13 ",
+        "website": "https://www.sedefri.com/",
+        "emails": null
+    },
+    {
+        "name": "Climavedra, S.L.",
+        "rating": null,
+        "address": "Lg. Villafranca, 15, 36158 Pontevedra, Spain",
+        "phone": "+34 609 25 17 69 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Kenfri",
+        "rating": "(15)",
+        "address": "Rúa Pintor Luis Seoane, 2, 36003 Pontevedra, Spain",
+        "phone": "+34 986 85 67 28 ",
+        "website": "https://www.kenfri.com/",
+        "emails": null
+    },
+    {
+        "name": "CLIMAVENT",
+        "rating": "(37)",
+        "address": "Av. do Marco, 15, 36158 Pontevedra, Spain",
+        "phone": "+34 986 86 66 80 ",
+        "website": "http://www.climavent.es/",
+        "emails": null
+    },
+    {
+        "name": "Ainé Mantenimientos y Control Integral",
+        "rating": null,
+        "address": "Av. de Vigo, 25, galerias Oficina 2, 36003 Pontevedra, Spain",
+        "phone": "+34 986 59 56 76 ",
+        "website": "https://www.aine.com.es/",
+        "emails": null
+    }
+]

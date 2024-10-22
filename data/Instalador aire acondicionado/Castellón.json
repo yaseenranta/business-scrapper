@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Enercom",
+        "rating": "(116)",
+        "address": "C/ del Bisbe Salinas, 81, 12003 Castelló de la Plana, Castelló, Spain",
+        "phone": "+34 964 72 47 50 ",
+        "website": "https://enercominstalaciones.com/",
+        "emails": null
+    },
+    {
+        "name": "Climanieto",
+        "rating": "(110)",
+        "address": "Carrer de Lleida, 10, 12004 Castelló de la Plana, Castelló, Spain",
+        "phone": "+34 609 38 56 20 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "FONT CLIMATIZACIÓN. Aire acondicionado, Calefacción y fotovoltaica.",
+        "rating": "(49)",
+        "address": "Carrer de Sant Francesc, 40, 12002 Castelló de la Plana, Castelló, Spain",
+        "phone": "+34 964 21 25 79 ",
+        "website": "http://fontclima.net/",
+        "emails": null
+    },
+    {
+        "name": "Electrofrío Castellón",
+        "rating": "(50)",
+        "address": "Carrer de Joaquín Costa, 38, BAJO, 12004 Castellón de la Plana, Castellón, Spain",
+        "phone": "+34 607 72 76 18 ",
+        "website": "http://electrofrio.com/",
+        "emails": null
+    },
+    {
+        "name": "Gtecnic - Aire Acondicionado Castellón - Calderas - Calefacción - Aerotermia",
+        "rating": "(25)",
+        "address": null,
+        "phone": "+34 664 66 92 15 ",
+        "website": "https://www.gtecnic.es/",
+        "emails": null
+    },
+    {
+        "name": "BICLIMA",
+        "rating": "(80)",
+        "address": "Av. de Casalduch, 53, 12005 Castelló de la Plana, Castelló, Spain",
+        "phone": "+34 964 25 71 82 ",
+        "website": "http://biclima.es/",
+        "emails": null
+    },
+    {
+        "name": "Termicas Castellò",
+        "rating": "(15)",
+        "address": "Carrer de Josp Bertomeu Gimeno, 3, 12006 Castelló de la Plana, Castelló, Spain",
+        "phone": "+34 646 56 70 84 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "FRICAG Soluciones Técnicas, S.L.",
+        "rating": "(12)",
+        "address": "de, Carrer Rambla de la Viuda, 2, NAVE 3, 12006 Castellón de la Plana, Castellón, Spain",
+        "phone": "+34 661 23 93 72 ",
+        "website": "https://www.fricag.com/",
+        "emails": null
+    },
+    {
+        "name": "Mejor Clima | Climatización Castellón",
+        "rating": "(16)",
+        "address": "Polígono Industrial, Ronda Oeste, Mercado de Abastos, Nave 9, 12006 Castellón de la Plana, Castellón, Spain",
+        "phone": "+34 613 50 71 53 ",
+        "website": null,
+        "emails": null
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "INSAT NORTE",
+        "rating": "(19)",
+        "address": "c/ Barratxi 6, Pabellon 105, 01013 Vitoria-Gasteiz, Álava, Spain",
+        "phone": "+34 609 26 07 12 ",
+        "website": "http://www.insatnorte.com/",
+        "emails": null
+    },
+    {
+        "name": "Santamarta Instalaciones S.L.",
+        "rating": "(125)",
+        "address": "Calle, Cl. Reyes Católicos, nº 34, 01002 Vitoria-Gasteiz, Álava, Spain",
+        "phone": "+34 945 28 29 21 ",
+        "website": "https://www.santamartainstalaciones.com/",
+        "emails": null
+    },
+    {
+        "name": "CLIMA VITORIA S.L.",
+        "rating": "(3)",
+        "address": "Kapelamendi Kalea, 1, Pab 51, 01013 Vitoria-Gasteiz, Álava, Spain",
+        "phone": "+34 945 12 12 31 ",
+        "website": "http://www.climavitoria.com/",
+        "emails": null
+    },
+    {
+        "name": "Hidroclima Instalaciones",
+        "rating": "(94)",
+        "address": "Basoa Kalea, 9, 01012 Gasteiz, Araba, Spain",
+        "phone": "+34 945 06 99 04 ",
+        "website": "http://www.hidroclima-instalaciones.com/",
+        "emails": null
+    }
+]

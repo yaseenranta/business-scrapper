@@ -1,0 +1,250 @@
+[
+    {
+        "name": "LEIVAS Y RODIL",
+        "rating": "(13)",
+        "address": "C/ Carlos Azcárraga, 98, 102, 27003 Lugo, Spain",
+        "phone": "+34 982 20 22 74 ",
+        "website": "https://leivasyrodil.es/",
+        "emails": null
+    },
+    {
+        "name": "I. D. F.",
+        "rating": "(11)",
+        "address": "Rúa das Leiteiras, 16, BAJO, 27297 Lugo, Spain",
+        "phone": "+34 622 09 97 84 ",
+        "website": "http://www.frioidf.com/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Sior",
+        "rating": "(26)",
+        "address": "Rúa Doutor Yañez Rebolo, 15, 27004 Lugo, Spain",
+        "phone": "+34 982 24 32 17 ",
+        "website": "https://www.sior.es/",
+        "emails": null
+    },
+    {
+        "name": "ABEAL INSTALACIONES",
+        "rating": "(8)",
+        "address": "Avenida das Américas, 69, 27004 Lugo, Spain",
+        "phone": "+34 982 20 08 52 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Luclimat",
+        "rating": "(17)",
+        "address": "C/ María Barbeito, 29-31, Pol As Gándaras, LUGO, 27003 Lugo, Spain",
+        "phone": "+34 982 21 22 62 ",
+        "website": "https://luclimat.es/",
+        "emails": null
+    },
+    {
+        "name": "Revical SAT",
+        "rating": "(24)",
+        "address": "Rúa Monte Faro, 41, bajo, 27003 Lugo, Spain",
+        "phone": "+34 982 87 10 77 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Careven Soluciones, S.L.U",
+        "rating": null,
+        "address": "Rúa Xoana de Castro, 27002 Lugo, Spain",
+        "phone": null,
+        "website": "http://www.careven.es/",
+        "emails": null
+    },
+    {
+        "name": "Lucalor",
+        "rating": "(32)",
+        "address": "Rúa da Pomba, 12, 14 bajo, 27004 Lugo, Spain",
+        "phone": "+34 982 21 90 01 ",
+        "website": "https://www.calefaccionlucalor.com/",
+        "emails": null
+    },
+    {
+        "name": "Mariña Clima",
+        "rating": "(11)",
+        "address": "Rúa Serra Gañidoira, 32-36, 27004 Lugo, Spain",
+        "phone": "+34 982 20 00 13 ",
+        "website": "https://marinaclima.com/",
+        "emails": null
+    },
+    {
+        "name": "Servitec",
+        "rating": "(28)",
+        "address": "Rúa Quiroga, 58, 27004 Lugo, Spain",
+        "phone": "+34 982 23 15 56 ",
+        "website": "http://www.serviteclugosl.com/",
+        "emails": null
+    },
+    {
+        "name": "Fontanería Suso Valín",
+        "rating": "(14)",
+        "address": "Rúa Pomar, 47, 27004 Lugo, Spain",
+        "phone": "+34 639 28 28 02 ",
+        "website": "https://www.fontaneriasusovalin.com/",
+        "emails": null
+    },
+    {
+        "name": "Nicman Instalacións",
+        "rating": null,
+        "address": "Rúa Río Támoga, 3, Bajo, 27003 Lugo, Spain",
+        "phone": "+34 633 76 74 74 ",
+        "website": "https://www.nicman.es/",
+        "emails": null
+    },
+    {
+        "name": "Saicalu SL",
+        "rating": "(17)",
+        "address": "Rúa Lamas de Prado, 126- BAJO, 27004 Lugo, Spain",
+        "phone": "+34 982 21 37 13 ",
+        "website": "https://saicalusl.com/",
+        "emails": null
+    },
+    {
+        "name": "Tecgal enerxías SL",
+        "rating": "(17)",
+        "address": "Rúa Monte Faro, 5, 27003 Lugo, Spain",
+        "phone": "+34 982 20 64 38 ",
+        "website": "http://www.tecgal.es/",
+        "emails": null
+    },
+    {
+        "name": "Construcciones Jaime Do Pazo",
+        "rating": "(48)",
+        "address": "Ronda das Fontiñas, 51, 27002 Lugo, Spain",
+        "phone": "+34 982 22 25 10 ",
+        "website": "http://jaimedopazo.com/",
+        "emails": null
+    },
+    {
+        "name": "Esin ingenieros montajes s.l.",
+        "rating": "(11)",
+        "address": "Poligono del Ceao Lugo, Rúa da Factoría, 12, 27003 Lugo, Spain",
+        "phone": "+34 982 26 30 80 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Termanova",
+        "rating": null,
+        "address": "Rúa Salmón, 10, 27003 Lugo, Spain",
+        "phone": "+34 982 90 61 99 ",
+        "website": "https://termanova.es/",
+        "emails": null
+    },
+    {
+        "name": "FONTANERIA ROIS C.B.",
+        "rating": "(39)",
+        "address": "Rúa Monte Faro, 173, 27003 Lugo, Spain",
+        "phone": "+34 982 20 04 63 ",
+        "website": "https://www.instagram.com/fontaneriaroislugo/?hl=es",
+        "emails": null
+    },
+    {
+        "name": "ANMARO instalaciones y mantenimientos",
+        "rating": "(2)",
+        "address": "Praza de Batanero, n4, 27310 Ribas de Sil, Lugo, Spain",
+        "phone": "+34 617 96 53 62 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "ANGEL DIAZ MANTENIMIENTOS",
+        "rating": "(7)",
+        "address": "Rúa Aceroleiro, 8, 27003 Lugo, Spain",
+        "phone": "+34 982 81 20 10 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "DECOCLIMA",
+        "rating": null,
+        "address": "Rúa Luis Ameijide, 3, 3.° D, 27003 Lugo, Spain",
+        "phone": "+34 982 10 66 00 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Lar e Fogo",
+        "rating": "(99)",
+        "address": "Rúa Santiago, 94, 27004 Lugo, Spain",
+        "phone": "+34 982 24 09 90 ",
+        "website": "https://www.larefogo.com/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Perez Rio",
+        "rating": null,
+        "address": "Praza Fonte dos Ranchos, 15, 27004 Lugo, Spain",
+        "phone": "+34 982 53 25 22 ",
+        "website": "http://www.instalacionesperezrio.com/",
+        "emails": null
+    },
+    {
+        "name": "MAV Fontanería y Calefacción",
+        "rating": null,
+        "address": "Rua Camiño do Souto, 54, 27003 Lugo, Spain",
+        "phone": "+34 678 58 82 79 ",
+        "website": "http://www.mavfontaneriaycalefaccionlugo.es/contactar-mav-fontaneria-y-calefaccion.html",
+        "emails": null
+    },
+    {
+        "name": "Talleres Barreiro",
+        "rating": "(31)",
+        "address": "Rúa das Leiteiras, 63, 27003 Lugo, Spain",
+        "phone": "+34 982 20 97 52 ",
+        "website": "https://talleresbarreiro.com/",
+        "emails": null
+    },
+    {
+        "name": "Instalaciones Pérez Río",
+        "rating": "(14)",
+        "address": "Calle Betote, 0 km 21 200, 27600 Sarria, Lugo, Spain",
+        "phone": "+34 982 53 25 22 ",
+        "website": "https://www.instalacionesperezrio.com/",
+        "emails": null
+    },
+    {
+        "name": "Fontanería y Calefacción Tito Conde",
+        "rating": null,
+        "address": "Av. de Lugo, 107, 27550 Taboada, Lugo, Spain",
+        "phone": "+34 982 46 51 96 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Instalaciónes cabarcos",
+        "rating": null,
+        "address": null,
+        "phone": "+34 616 23 80 14 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "607368323",
+        "rating": "(31)",
+        "address": "C. Batalla de Covadonga, 1, 5 BJ, 24402 Ponferrada, León, Spain",
+        "phone": "+34 987 42 60 31 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "ECOCLIMA ENERGY SL",
+        "rating": null,
+        "address": "Rúa Diego Pazos, 92, 94 BJ, 27600 Sarria, Lugo, Spain",
+        "phone": "+34 982 53 40 49 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "GAYFER",
+        "rating": null,
+        "address": "Lugar Casanova, 31, 27187 As Casas Novas, Lugo, Spain",
+        "phone": "+34 617 49 73 89 ",
+        "website": null,
+        "emails": null
+    }
+]

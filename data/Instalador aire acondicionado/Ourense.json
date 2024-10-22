@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Inca Instaladora",
+        "rating": "(6)",
+        "address": "Rúa Río Camba, 6 - Baixo, 6, 32001 Ourense, Spain",
+        "phone": "+34 988 22 73 79 ",
+        "website": "http://incainstaladora.com/",
+        "emails": null
+    },
+    {
+        "name": "Aire acondicionado Ourense",
+        "rating": "(4)",
+        "address": "Rúa do Progreso, 119, 32003 Ourense, Spain",
+        "phone": "+34 652 87 79 75 ",
+        "website": "http://www.aireacondicionadoourense.com/",
+        "emails": null
+    },
+    {
+        "name": "Calefacciones Eladio Doval",
+        "rating": "(5)",
+        "address": "Av. de Buenos Aires, 177, 32004 Ourense, Province of Ourense, Spain",
+        "phone": "+34 988 25 29 84 ",
+        "website": "http://www.calefacciones-eladiodoval.com/",
+        "emails": null
+    },
+    {
+        "name": "CLIMA TÉCNICA DE REFRIGERACIÓN",
+        "rating": "(6)",
+        "address": "Rúa Pena Nofre, 6, 32005 Ourense, Spain",
+        "phone": "+34 988 22 64 01 ",
+        "website": "https://www.climatecnica.es/",
+        "emails": null
+    },
+    {
+        "name": "Friborpa, S.L.U.",
+        "rating": "(17)",
+        "address": "Crta de Vigo N8 Bajo, 32001 Ourense, Spain",
+        "phone": "+34 696 50 04 55 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "MANYCONTROL E HIJAS, S.L.",
+        "rating": "(9)",
+        "address": "Rúa Antonio Puga, 39, BAJO, 32002 Ourense, Province of Ourense, Spain",
+        "phone": "+34 610 78 92 55 ",
+        "website": "http://manycontrol.es/",
+        "emails": null
+    },
+    {
+        "name": "Tecnomultimarca",
+        "rating": "(17)",
+        "address": "Av. de Zamora, 116, 32005 Ourense, Province of Ourense, Spain",
+        "phone": "+34 988 98 33 04 ",
+        "website": "https://www.serviciotecnicocalefaccionourense.es/",
+        "emails": null
+    },
+    {
+        "name": "Calefacciones Casas",
+        "rating": "(3)",
+        "address": "Rúa Río Cobas, 13, BAJO, 32001 Ourense, Province of Ourense, Spain",
+        "phone": "+34 988 21 33 26 ",
+        "website": null,
+        "emails": null
+    },
+    {
+        "name": "Italoespañola De Climatización S.l.",
+        "rating": "(5)",
+        "address": "Rúa Benito Vicetto, 7, 32004 Ourense, Spain",
+        "phone": "+34 988 21 52 24 ",
+        "website": null,
+        "emails": null
+    }
+]
